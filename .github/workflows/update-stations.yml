@@ -1,0 +1,41 @@
+name: Actualizar radios de Bolivia
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todos los dias 06:00 UTC (02:00 Bolivia)
+  workflow_dispatch:       # boton "Run workflow" manual
+  push:
+    paths: [update_stations.py, enrich.py, data/overrides.json]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stations
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tests
+        run: python -m unittest discover -s tests -v
+      - name: Generar stations.json
+        run: python update_stations.py
+      - name: Commit si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/stations.json data/enrichment.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Actualizar lista de radios"
+            git pull --rebase
+            git push
+          fi
