@@ -15,7 +15,9 @@ def raw(**kw):
 
 class Tests(unittest.TestCase):
     def test_descarta_http_caidas_y_codec(self):
-        self.assertIsNone(u.to_station(raw(url_resolved="http://x.com/s")))
+        self.assertFalse(u.to_station(raw(url_resolved="http://x.com/s"))["secure"])   # http se acepta, marcado
+        self.assertTrue(u.to_station(raw())["secure"])
+        self.assertIsNone(u.to_station(raw(url_resolved="ftp://x.com/s")))
         self.assertIsNone(u.to_station(raw(lastcheckok=0)))
         self.assertIsNone(u.to_station(raw(codec="OGG")))
         self.assertIsNotNone(u.to_station(raw(codec="OGG", hls=1)))
@@ -88,6 +90,29 @@ class EnrichTests(unittest.TestCase):
         self.assertTrue(enrich.is_fresh({"checked": now - 86400, "ok": True}, now))
         self.assertFalse(enrich.is_fresh({"checked": now - 8 * 86400, "ok": False}, now))
         self.assertFalse(enrich.is_fresh(None, now))
+
+
+class GardenTests(unittest.TestCase):
+    def test_une_fuentes_sin_duplicar_y_rellena(self):
+        rb = u.to_station(raw(stationuuid="rb1", name="Radio Fides", url_resolved="https://a.com/1", votes=50))
+        garden = u.from_garden({"id": "rg-1", "name": "Fides 93.3 FM", "place": "La Paz",
+                                "website": "https://fides.bo", "stream": "https://b.com/9"})
+        out = u.merge_dedupe([rb, garden])
+        self.assertEqual(len(out), 1)                       # misma radio
+        self.assertEqual(out[0]["id"], "rb1")               # gana la de mas votos
+        self.assertEqual(out[0]["department"], "La Paz")    # rellenado desde radio.garden
+        self.assertEqual(out[0]["website"], "https://fides.bo")
+        self.assertEqual(out[0]["frequency"], "93.3 FM")
+
+    def test_misma_marca_en_distinto_departamento_son_dos(self):
+        a = u.from_garden({"id": "rg-a", "name": "Radio Fides", "place": "La Paz", "stream": "https://a.com/1"})
+        b = u.from_garden({"id": "rg-b", "name": "Radio Fides", "place": "Cochabamba", "stream": "https://b.com/1"})
+        self.assertEqual(len(u.merge_dedupe([a, b])), 2)
+
+    def test_departamentos_de_ciudades_chicas(self):
+        for place, dept in [("Montero", "Santa Cruz"), ("Villazon", "Potosí"), ("Punata", "Cochabamba"),
+                            ("Caranavi", "La Paz"), ("Santa Cruz de la Sierra", "Santa Cruz")]:
+            self.assertEqual(u.detect_department(place), dept)
 
 
 if __name__ == "__main__":

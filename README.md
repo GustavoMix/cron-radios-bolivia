@@ -8,8 +8,8 @@ https://raw.githubusercontent.com/GustavoMix/cron-radios-bolivia/main/data/stati
 ```
 
 ## Qué hace
-1. Baja las radios de Bolivia de [Radio Browser](https://www.radio-browser.info) (con varios servidores de respaldo).
-2. Filtra: solo streams `https`, que estén en línea, con códec MP3/AAC/HLS, sin duplicados.
+1. Baja las radios de Bolivia de dos fuentes: [Radio Browser](https://www.radio-browser.info) (comunidad, con votos para el ranking) y [radio.garden](https://radio.garden) (radios por ciudad; usa su API interna **no oficial**: si falla, el cron conserva lo último bueno y no se rompe).
+2. Une las fuentes sin duplicar (mismo stream, o mismo nombre y departamento) y rellena datos que falten (ciudad, frecuencia, sitio web). Solo acepta radios en línea con códec MP3/AAC/HLS. Los streams `http` se aceptan y van marcados con `"secure": false` (la app de Tizen los reproduce; ponlos en `HTTPS_ONLY = True` si no los quieres).
 3. Normaliza: departamento, ciudad, frecuencia (si viene en el nombre), color y género.
 4. Aplica tus ajustes de [`data/overrides.json`](data/overrides.json).
 5. Hace commit solo si la lista cambió.
@@ -62,3 +62,6 @@ Requiere Python 3.9+, sin dependencias.
 1. Repo **público** (para que `raw.githubusercontent.com` funcione).
 2. Settings → Actions → General → Workflow permissions → **Read and write permissions**.
 3. Actions → "Actualizar radios de Bolivia" → **Run workflow** para probar.
+
+## Cobertura
+Según la fuente, hoy hay pocas radios de Beni, Pando, Chuquisaca y Tarija. Para sumarlas agrégalas a mano en `data/overrides.json` → `"add"` (necesitas el nombre y la URL del stream).

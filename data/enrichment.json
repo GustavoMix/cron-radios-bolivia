@@ -34,9 +34,32 @@
   "ok": true,
   "website": "https://radiopueblodigital.blogspot.com/"
  },
+ "151e5b46-11aa-460b-a261-7dc4de5117a8": {
+  "checked": 1794415586,
+  "color": "",
+  "cover_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQejT2QumV6pO7Hlx5d5jQm6NEUXsuAg-Sy6Ax6tYSot4G6TdjA5B6bfxfXhKxOz1dPvcJUGXaqXqtklNERxsfx0l81we4DUCBDBoro_6PG6y2TYNkijDRMGFessVbYWLb_yn1E5sb9yrLkIKzKvPc5zA71t9iKuNpPmfNuJQONSFwYWkRDfO2vlQFsapkCN-__AHIN-_XflhTmasm--ETSq4xtj-_EywiSRmw=w1280",
+  "description": "¡Una Estación para cada Emoción! ¡Para los amantes de la buena música, no hay lugar mejor! Disfruta de la mejor música online transmitida desde el corazón de Bolivia a través nuestras radios temáticas. Emitimos 21...",
+  "links": {},
+  "logo_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcTbMx4MKqMCIuf7qYnXybYHs4qtZmd_rvycmFg_9iwmsMz2uSFom0sRdCN2Cq-a3H8ys1oWGTodiCfXXRrgfiK0XmlIrPh0_Z0ic4uAOkvNbIAxOO1vDW3RAOEZYCVJ8oFn_SZLcnfKXzVaVBzPSgSg--NiZ6Xo3w6GPOAQP5IV1SC6nCXsmaXgG6xY5Pd0p9W2wAc8AoN_VCe_nOPRTq8Dg",
+  "ok": true,
+  "website": "https://www.bigradio.top/"
+ },
  "1ce84a75-b227-4677-9756-5832b71ddd44": {
   "checked": 1794413657,
   "ok": false
+ },
+ "1e2dccde-5a8a-11e9-a622-52543be04c81": {
+  "checked": 1794415586,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiomaria.org.bo?ref=hl",
+   "instagram": "https://www.instagram.com/radiomariabolivia/"
+  },
+  "logo_url": "https://www.radiomaria.org.bo/wp-content/themes/radiomaria/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://www.radiomaria.org.bo/"
  },
  "20c84d77-3097-4443-bad8-d81145d89068": {
   "checked": 1794413667,
@@ -85,6 +108,37 @@
   "logo_url": "https://graph.facebook.com/Stereo97Bolivia/picture?type=large",
   "ok": true,
   "website": "https://stereo97.fm/"
+ },
+ "298a715b-a1e0-443b-bbf2-10ea2c3cdf85": {
+  "checked": 1794415586,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/aymararadio",
+   "twitter": "https://x.com/aymaradigital",
+   "youtube": "https://www.youtube.com/@radioaymara"
+  },
+  "logo_url": "https://www.radioaymara.com/wp-content/uploads/2021/01/cropped-AYMARA-270x270.png",
+  "ok": true,
+  "website": "https://www.radioaymara.com/"
+ },
+ "2e0080ef-dd8b-481b-a7f7-9bba15b6a59d": {
+  "checked": 1794415587,
+  "color": "#fdc42d",
+  "cover_url": "",
+  "description": "La primera transmisión partidaria en el país. Con el relato de Marcelo De la Cruz y un grupo de periodistas",
+  "links": {
+   "facebook": "https://www.facebook.com/elderribador.bolivia",
+   "instagram": "https://instagram.com/el.derribador",
+   "tiktok": "https://www.tiktok.com/@el.derribador",
+   "twitter": "https://twitter.com/ElDerribador",
+   "whatsapp": "https://wa.me/77773723",
+   "youtube": "https://www.youtube.com/@ElDerribadorBolivia"
+  },
+  "logo_url": "https://elderribadorradio.disweb.top/icons/icon-180.png",
+  "ok": true,
+  "website": "https://elderribadorradio.disweb.top/"
  },
  "31cd1741-fc0d-40a2-8f3a-5af71801dfc7": {
   "checked": 1794413659,
@@ -136,6 +190,10 @@
   "logo_url": "https://radio.zetaxworld.xyz/apple-icon?263e37c41bd3698b",
   "ok": true,
   "website": "https://radio.zetaxworld.xyz/"
+ },
+ "393427ab-ca2d-11e8-a54a-52543be04c81": {
+  "checked": 1794415586,
+  "ok": false
  },
  "3cfb8d49-ac94-490c-9075-84d8965b0272": {
   "checked": 1794413661,
@@ -302,6 +360,16 @@
   "ok": true,
   "website": "https://kawsachuncoca.com/radio"
  },
+ "6d65c14d-65a8-4084-a7d4-ed92dbb4b2bc": {
+  "checked": 1794415586,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio paceña decidida a emitir musica las 24 horas del dia, con 30 años de experiencia somos tu mejor compañía, transmitimos tu sentir y te ayudamos a alegrar tu dia a dia.",
+  "links": {},
+  "logo_url": "https://ciudad91.net/logo192.png",
+  "ok": true,
+  "website": "https://ciudad91.net/"
+ },
  "6fce0a09-e859-40d1-9cf0-7db0046dc708": {
   "checked": 1794413661,
   "color": "#03b8ec",
@@ -389,6 +457,16 @@
   "ok": true,
   "website": "https://www.horizontes.com.bo/"
  },
+ "961e4d72-0601-11e8-ae97-52543be04c81": {
+  "checked": 1794415586,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.radioclasica100.com/"
+ },
  "9bb0d97d-5dc8-4181-a1f0-d938f91a4e51": {
   "checked": 1794413657,
   "ok": false
@@ -403,37 +481,25 @@
   "ok": true,
   "website": "https://quechuafm.es.tl/"
  },
- "c55c2fba-1807-48ad-84e9-911eb5721979": {
-  "checked": 1794413665,
+ "c5ef3a09-d75e-404c-967e-a63df36c2460": {
+  "checked": 1794415586,
   "color": "",
-  "cover_url": "https://fmlapaz.bo/wp-content/uploads/2026/04/LOGO-LA-PAZ-MEDIA-redondo-RRSS.png",
-  "description": "REDES SOCIALES Warning: Undefined variable $count in /home/fmlapazc/fmlapaz.bo/wp-content/plugins/penci-framework/inc/social-counter/social-counter.php on line 407 Warning: Undefined variable $count in...",
+  "cover_url": "",
+  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
   "links": {
-   "facebook": "https://www.facebook.com/lapazmedia967",
-   "instagram": "https://instagram.com/lapazmedia967",
-   "tiktok": "https://www.tiktok.com/@lapazmedia967",
-   "twitter": "https://twitter.com/lapazmedia967",
-   "youtube": "https://www.youtube.com/@lapazmedia967"
+   "facebook": "https://www.facebook.com/RadioFidesBolivia",
+   "instagram": "https://www.instagram.com/radiofidesbolivia",
+   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
+   "twitter": "https://twitter.com/GrupoFides",
+   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
   },
-  "logo_url": "https://fmlapaz.bo/wp-content/uploads/2017/11/cropped-LOGO-LPM-512x512-1-180x180.png",
+  "logo_url": "https://cdn-profiles.tunein.com/s13712/images/logog.png?t=154460",
   "ok": true,
-  "website": "https://fmlapaz.bo/en-vivo/"
+  "website": "https://radiofides.com/"
  },
  "c7a0ea30-245c-4369-9f40-ece49d0fd245": {
   "checked": 1794413669,
   "ok": false
- },
- "cb1fb8a2-99eb-457a-9628-04f7cba06958": {
-  "checked": 1794413666,
-  "color": "",
-  "cover_url": "",
-  "description": "",
-  "links": {
-   "facebook": "https://www.facebook.com/RadioFidesBolivia/live/"
-  },
-  "logo_url": "https://cdn-profiles.tunein.com/s13712/images/logog.png?t=154460",
-  "ok": true,
-  "website": "https://www.radiofides.com/radio-online"
  },
  "cbbc409c-bff4-4f59-a07a-5b690cb8ebc8": {
   "checked": 1794413657,
@@ -446,6 +512,19 @@
   "logo_url": "https://radiosanrafael.com.bo/wp-content/uploads/2022/06/logo-san-rafael-simple.jpg",
   "ok": true,
   "website": "https://radiosanrafael.com.bo/"
+ },
+ "cca0bd15-38db-4949-8866-faae4c7309d5": {
+  "checked": 1794415586,
+  "color": "#009328",
+  "cover_url": "",
+  "description": "Periódico digital de Radio Panamericana Noticias, las noticias de Bolivia desde una perspectiva clara y neutral. Información actual nacional e internacional",
+  "links": {
+   "facebook": "https://www.facebook.com/NoticiasPanamericana/",
+   "twitter": "https://twitter.com/RadPanamericana"
+  },
+  "logo_url": "https://graph.facebook.com/NoticiasPanamericana/picture?width=200&height=200",
+  "ok": true,
+  "website": "https://www.panamericana.bo/"
  },
  "cd524c3b-20b8-47c7-b786-3493b96cdf4c": {
   "checked": 1794413657,
@@ -549,6 +628,20 @@
   "ok": true,
   "website": "https://zeno.fm/radio/24dejulio/"
  },
+ "fb939ceb-5117-4af5-b6c5-ebc188bd809e": {
+  "checked": 1794415586,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio Clássica FM 106.9 - Donde viven los famosos. Transmisión en vivo desde Santa Cruz de la Sierra, Bolivia. Los mejores éxitos del rock y pop de los 70, 80 y 90.",
+  "links": {
+   "facebook": "https://www.facebook.com/Classica106.9",
+   "instagram": "https://www.instagram.com/classica106.9",
+   "twitter": "https://twitter.com/RadioClassicaFM"
+  },
+  "logo_url": "https://www.classicafm.com/assets/images/favicon.png",
+  "ok": true,
+  "website": "https://www.classicafm.com/"
+ },
  "fbf15cba-dfde-4bce-bc70-8f556154924e": {
   "checked": 1794413660,
   "color": "",
@@ -568,5 +661,724 @@
   "logo_url": "https://zeno.fm/apple-touch-icon.png",
   "ok": true,
   "website": "https://zeno.fm/radio/radio-supermixj/"
+ },
+ "rg-09abGSAq": {
+  "checked": 1794415600,
+  "color": "",
+  "cover_url": "https://www.studio94.com.bo/wp-content/uploads/2024/07/LOGO-SOLO-ROJO-1.png",
+  "description": "Alles rund um das Erlebnis bei Lemon Casino Wer auf der Suche nach einer unterhaltsamen und abwechslungsreichen Spielumgebung ist, findet hier eine ideale Anlaufstelle. Für den schnellen Zugang zu Ihrem persönlichen...",
+  "links": {
+   "facebook": "https://www.facebook.com/STUDIO94FMBOLIVIA/",
+   "whatsapp": "https://wa.me/59162755900"
+  },
+  "logo_url": "https://www.studio94.com.bo/wp-content/uploads/2024/07/cropped-LOGO-SOLO-ROJO-1-2-180x180.png",
+  "ok": true,
+  "website": "https://www.studio94.com.bo/"
+ },
+ "rg-0D9tQQZC": {
+  "checked": 1794415589,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://radiodimensionfm1031.blogspot.com"
+ },
+ "rg-0aEyUiKp": {
+  "checked": 1794415604,
+  "color": "#08298a",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "tiktok": "https://www.tiktok.com/es/",
+   "whatsapp": "https://api.whatsapp.com/send?phone=59177140642&text=Hola, Quisiera saber sobre espacio radial y publicidad"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.radioritmo98.com"
+ },
+ "rg-2TggHcdB": {
+  "checked": 1794415591,
+  "ok": false
+ },
+ "rg-3GSJW7Gh": {
+  "checked": 1794415609,
+  "ok": false
+ },
+ "rg-4-iYUuET": {
+  "checked": 1794415591,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiomundialbolivia",
+   "instagram": "https://www.instagram.com/radiomundial_bo/",
+   "whatsapp": "https://wa.me/59175440823"
+  },
+  "logo_url": "https://mundial.fm/wp-content/uploads/2026/09/cropped-site-icon-180x180.png",
+  "ok": true,
+  "website": "https://mundial.fm/"
+ },
+ "rg-4j0VOJK6": {
+  "checked": 1794415608,
+  "ok": false
+ },
+ "rg-5OYFv9iK": {
+  "checked": 1794415587,
+  "color": "",
+  "cover_url": "",
+  "description": "ATB Radio SEÑAL EN VIVO Y DIRECTO (107.3 FM)",
+  "links": {
+   "facebook": "https://www.facebook.com/atbmediabol",
+   "instagram": "https://www.instagram.com/atbmediabol/",
+   "tiktok": "https://www.tiktok.com/@atbmediabol",
+   "youtube": "https://www.youtube.com/@ATB-MediaBolivia"
+  },
+  "logo_url": "https://www.atb.com.bo/wp-content/uploads/2026/06/portal-280x280.png",
+  "ok": true,
+  "website": "https://www.atb.com.bo/atb-radio/"
+ },
+ "rg-5lrF1tlK": {
+  "checked": 1794415596,
+  "color": "",
+  "cover_url": "",
+  "description": "CONTRATA LA DIFUSIÓN DE LA PUBLICIDAD DE TU NEGOCIO CON NOSOTROS",
+  "links": {
+   "whatsapp": "https://wa.me/"
+  },
+  "logo_url": "https://radiocarigso.com/wp-content/uploads/2026/11/cropped-LOGO-CON-LETRAS-BLANCAS-180x180.png",
+  "ok": true,
+  "website": "https://radiocarigso.com"
+ },
+ "rg-8doiMc0X": {
+  "checked": 1794415588,
+  "color": "",
+  "cover_url": "https://radiodj1071.com/wp-content/uploads/2026/10/admin-ajax-3-1024x640.jpg",
+  "description": "Radio y TV online en vivo en Bolivia Punto TV. Disfruta música, información, entretenimiento y programación desde cualquier lugar.24/7",
+  "links": {
+   "whatsapp": "https://wa.me/"
+  },
+  "logo_url": "https://radiodj1071.com/wp-content/uploads/2026/10/cropped-logo-1-180x180.png",
+  "ok": true,
+  "website": "https://radiodj1071.com"
+ },
+ "rg-91EvcAwS": {
+  "checked": 1794415607,
+  "color": "#1556d8",
+  "cover_url": "https://radiocatolicacarisma.com/assets/img/marca/compartir-paloma.jpg",
+  "description": "Escucha en vivo desde Montero, Bolivia. Programación, noticias de la Iglesia y cómo ser parte de esta obra.",
+  "links": {
+   "facebook": "https://www.facebook.com/radiocatolicacarisma",
+   "instagram": "https://www.instagram.com/radiocarisma/",
+   "tiktok": "https://www.tiktok.com/@radiocarisma_",
+   "whatsapp": "https://wa.me/59178171471",
+   "youtube": "https://www.youtube.com/@radiocatolicacarisma"
+  },
+  "logo_url": "https://radiocatolicacarisma.com/assets/img/marca/icono-v2-180.png",
+  "ok": true,
+  "website": "https://radiocatolicacarisma.com/"
+ },
+ "rg-FUK01Jer": {
+  "checked": 1794415595,
+  "color": "",
+  "cover_url": "",
+  "description": "Fashion Fasion Trends and Li Edelkoort the Culture Shock Special Report BY David Jul 07, 2022 1 Comment 54 Views Travel Trip To Iqaluit In Nunavut A Canadian Arctic Nice City.. BY David Jul 07, 2022 0 Comments Food...",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://caliente.com.bo/"
+ },
+ "rg-FkDKi4mM": {
+  "checked": 1794415608,
+  "color": "",
+  "cover_url": "https://electraradio.weebly.com/uploads/1/2/5/8/125836261/editor/e-logo-2.png?1664120370",
+  "description": "BIENVENIDOS",
+  "links": {
+   "facebook": "https://www.facebook.com/ELECTRARadioDance/"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://electraradio.weebly.com"
+ },
+ "rg-FxQsCCcJ": {
+  "checked": 1794415606,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://energy.boliviasitios.com"
+ },
+ "rg-GcUE049D": {
+  "checked": 1794415609,
+  "color": "",
+  "cover_url": "https://bo.radiodisney.com/img/placeholders/lat/featuredImage.png",
+  "description": "Bienvenidos a Radio Disney Latinoamérica! Aquí encontrarás todo lo que quieres saber sobre tu radio favorita: noticias, podcasts y ¡mucho más!",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://bo.radiodisney.com/"
+ },
+ "rg-GpyRxhi9": {
+  "checked": 1794415596,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiofama/",
+   "instagram": "https://www.instagram.com/radiofamaenvivo/",
+   "twitter": "https://twitter.com/radiofamaenvivo",
+   "youtube": "https://www.youtube.com/channel/UCQoMAfev-O5xmnO-5Cgk_rw"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://fama.com.bo/"
+ },
+ "rg-H6SizYuB": {
+  "checked": 1794415593,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "https://www.audiokiss.com/wp-content/uploads/2021/03/cropped-sound-bars-180x180.png",
+  "ok": true,
+  "website": "https://www.audiokiss.com/"
+ },
+ "rg-I89GGWEX": {
+  "checked": 1794415593,
+  "ok": false
+ },
+ "rg-JDD4JiK2": {
+  "checked": 1794415610,
+  "color": "",
+  "cover_url": "https://static.wixstatic.com/media/01b005_bccb3e626d874a8780f08dd32d317844%7Emv2.png/v1/fit/w_2500,h_1330,al_c/01b005_bccb3e626d874a8780f08dd32d317844%7Emv2.png",
+  "description": "RADIO 7 VOCES Caranavi emite su señal desde el 1 de octubre del 2017, centralizado en el mensaje del evangelio eterno de nuestro Señor Jesucristo.",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://7voces.wixsite.com/radio-7-voces-plus"
+ },
+ "rg-JjdWc77c": {
+  "checked": 1794415600,
+  "ok": false
+ },
+ "rg-JvwmsjsC": {
+  "checked": 1794415606,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://radiovozdeesperanza.wixsite.com/vozdeesperanzaradio"
+ },
+ "rg-JxpbtXC8": {
+  "checked": 1794415594,
+  "color": "",
+  "cover_url": "https://zeno.fm/_og/d/c_Entity,title_Listen+to+La+Mega+97.3,subtitle_General,image_~aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0WWVxN2drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dvWUdVMFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczNDY4ODU4NzAwMA,p_Ii9yYWRpby9sYS1tZWdhLTk3My8i,s_RNhUvUbLHVPRoPXp.png",
+  "description": "Tune in to La Mega 97.3 and enjoy the best of Spanish (Bolivia) General radio. Stream live broadcasts, catch up on past episodes, and stay updated with the latest news and announcements.",
+  "links": {
+   "facebook": "https://www.facebook.com/lamega97.3fm/"
+  },
+  "logo_url": "https://zeno.fm/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://zeno.fm/radio/la-mega-973/"
+ },
+ "rg-KDOGKaWO": {
+  "checked": 1794415589,
+  "color": "",
+  "cover_url": "https://zeno.fm/_og/d/c_Entity,title_Listen+to+Bartolina+TV,subtitle_General,image_~aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGYzMWEyYWUtMzY2MS00MjMxLWE3ODUtNzY4ZWI4YzhmNzMyL2ltYWdlLz91PTE2ODUxNDA1MTgwMDA,p_Ii9yYWRpby9iYXJ0b2xpbmEtdHYvIg,s_q8LvLUfl95HpHWQZ.png",
+  "description": "Tune in to Bartolina TV and enjoy the best of General radio. Stream live broadcasts, catch up on past episodes, and stay updated with the latest news and announcements.",
+  "links": {},
+  "logo_url": "https://zeno.fm/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://zeno.fm/radio/bartolina-tv/"
+ },
+ "rg-LBfuSOOq": {
+  "checked": 1794415606,
+  "color": "",
+  "cover_url": "https://www.radioguadalupellallagua.com/assets/redes.png",
+  "description": "Las Mejores Radios del Momento",
+  "links": {},
+  "logo_url": "https://www.radioguadalupellallagua.com/assets/favicon.png",
+  "ok": true,
+  "website": "https://www.radioguadalupellallagua.com"
+ },
+ "rg-M10tiQe3": {
+  "checked": 1794415597,
+  "ok": false
+ },
+ "rg-Mjcxav5K": {
+  "checked": 1794415598,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiosangabrieldebolivia",
+   "instagram": "https://www.instagram.com/radiosangabrielbolivia2",
+   "tiktok": "https://www.tiktok.com/@radiosangabrielbolivia",
+   "twitter": "https://x.com/RadioSanGabrie1",
+   "youtube": "https://www.youtube.com/@RadioSanGabrielBolivia"
+  },
+  "logo_url": "https://radiosangabriel.org.bo/wp-content/uploads/2025/12/cropped-idSiteRSG-180x180.png",
+  "ok": true,
+  "website": "https://radiosangabriel.org.bo/"
+ },
+ "rg-NKH5TRjS": {
+  "checked": 1794415612,
+  "color": "",
+  "cover_url": "https://zeno.fm/_og/d/c_Entity,title_Listen+to+Tupiza+Online,subtitle_General,image_~aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREl6WTJwendrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREl6ZTJodWdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc5MzIxNDkxMjAwMA,p_Ii9yYWRpby1sYW5kaW5nL3R1cGl6YS1vbmxpbmUvIg,s_7Ll8LxWxE1cMgEM_.png",
+  "description": "Tune in to Tupiza Online and enjoy the best of Spanish (Bolivia) General radio. Stream live broadcasts, catch up on past episodes, and stay updated with the latest news and announcements.",
+  "links": {
+   "facebook": "https://www.facebook.com/josue.loayzabalboa"
+  },
+  "logo_url": "https://tupiza-online.mdn.live/icon-32x32.png",
+  "ok": true,
+  "website": "https://tupiza-online.mdn.live"
+ },
+ "rg-NUFBKNx0": {
+  "checked": 1794415605,
+  "color": "",
+  "cover_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQd0YoWw_Zr3IDrlOdTGVfusaxiAB8h9UO7uUSvgWvnVoRnFsZx4YrejZNZPpjwYvayAgkI9Z1P4_VVm5F0Rhh5H-1hrDrpZVEJtlauUm7HA1MBs8horTVKmA3zjmHHiN65jM1xzGPnD96ad97jERSyeRtjrk25R5QKMl_Sa9fTXPS6tw0gbp2Y_y8d0K74=w16383",
+  "description": "RADIO PIONERA",
+  "links": {
+   "facebook": "https://www.facebook.com/felipe.montano3",
+   "whatsapp": "https://wa.me/+59175474775"
+  },
+  "logo_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQctQk4W73Q_it74OH5i4fOHDbOrH8yimG-GauLdVEHOOqjAXXozBn_DYOZuJWGmEphP7cFVAvu7O7qoxsFqHYl8Uw5qxYTKQe7h7hzZPOEzZPNLeMsgR0OOMG7WvKIol2x1XCV8yEiJaTGudnn20D7b8Q16WRgG5jErjKRUFZNqfnocPhyp46eKDIopVEpZ2iddr30d70abghwU5y3okFVk8Q",
+  "ok": true,
+  "website": "https://www.radiopionera.com"
+ },
+ "rg-PHxc2tEj": {
+  "checked": 1794415593,
+  "color": "",
+  "cover_url": "https://pxcdn.eldeber.com.bo/eldeber/092025/1758229699421.jpg",
+  "description": "Explorá la actualidad de Bolivia en EL DEBER. Noticias de última hora, análisis y reportajes sobre política, economía, deportes y cultura. Mantente informado de las últimas novedades en Santa Cruz, Cochabamba y todo el...",
+  "links": {
+   "facebook": "https://www.facebook.com/GrupoELDEBER",
+   "instagram": "https://www.instagram.com/eldeber.com.bo",
+   "twitter": "https://x.com/@grupoeldeber"
+  },
+  "logo_url": "https://static2.eldeber.com.bo/img/favicons/apple-icon-180x180.png",
+  "ok": true,
+  "website": "https://eldeber.com.bo"
+ },
+ "rg-QGmFWyrj": {
+  "checked": 1794415594,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio Activa Bolivia: información y humor las 24 horas del día. Escucha los hits y la música de moda que más te gusta. ¡Tu radio preferida!",
+  "links": {
+   "facebook": "https://www.facebook.com/RADIOACTIVA919/",
+   "instagram": "https://www.instagram.com/radioactivabolivia/",
+   "whatsapp": "https://wa.me/59177069991",
+   "youtube": "https://www.youtube.com/channel/UCVhmz_DiPWfcnErVwzVZF9Q"
+  },
+  "logo_url": "https://www.919radioactiva.com/favicon.png",
+  "ok": true,
+  "website": "https://www.919radioactiva.com"
+ },
+ "rg-R9B1S85q": {
+  "checked": 1794415594,
+  "color": "",
+  "cover_url": "",
+  "description": "Una emisora de radio en Santa Cruz - Bolivia dedicada a llevar la palabra de Dios a cada hogar, a cada corazón.",
+  "links": {
+   "facebook": "https://www.facebook.com/radiobetania.oficial",
+   "instagram": "https://www.instagram.com/radiobetania93.7/",
+   "tiktok": "https://www.tiktok.com/@radiobetania",
+   "whatsapp": "https://api.whatsapp.com/send?phone=59133340137",
+   "youtube": "https://www.youtube.com/channel/UCWgbcUOQ2N6quKrDQiAKdzA"
+  },
+  "logo_url": "https://rbetania.s3.amazonaws.com/2019/08/cropped-icono-180x180.png",
+  "ok": true,
+  "website": "https://radiobetania.com/"
+ },
+ "rg-S2iaVTE2": {
+  "checked": 1794415610,
+  "color": "#b80000",
+  "cover_url": "https://fmbolivia.com.bo/uploads/2026/07/identidad/logo-20260730-173830.png",
+  "description": "FmBolivia es un medio de comunicación boliviano con noticias de Bolivia y Los Yungas, entrevistas, deportes, opinión y transmisiones en vivo desde Chulumani, La Paz.",
+  "links": {
+   "facebook": "https://www.facebook.com/FmBolivia",
+   "instagram": "https://www.instagram.com/fmbolivia/",
+   "tiktok": "https://www.tiktok.com/@fmbolivia",
+   "whatsapp": "https://wa.me/59173007200",
+   "youtube": "https://www.youtube.com/@FmBoliviaFHD"
+  },
+  "logo_url": "https://fmbolivia.com.bo/uploads/identidad/2026/08/favicon-20260820-072515.png",
+  "ok": true,
+  "website": "https://fmbolivia.com.bo"
+ },
+ "rg-SCJ631ll": {
+  "checked": 1794415592,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.radioplaybolivia.com/"
+ },
+ "rg-SJIkIepd": {
+  "checked": 1794415589,
+  "ok": false
+ },
+ "rg-UPDcqbfN": {
+  "checked": 1794415591,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "instagram": "https://www.instagram.com/radiomonumental",
+   "youtube": "https://youtube.com/@monumentalfm"
+  },
+  "logo_url": "https://monumental.fm/wp-content/uploads/2026/06/cropped-favicon_monumental-180x180.png",
+  "ok": true,
+  "website": "https://monumental.fm/"
+ },
+ "rg-UWTtw0W5": {
+  "checked": 1794415604,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/TopRadio91.1/?locale=es_LA",
+   "tiktok": "https://vm.tiktok.com/ZMHnYPnAobCeT-Qr8Iu/",
+   "whatsapp": "https://wa.me/59171341886"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://topcamiri.rtvenvivo.com"
+ },
+ "rg-UjdPar2V": {
+  "checked": 1794415605,
+  "color": "",
+  "cover_url": "",
+  "description": "Contigo toda la semanaProgramacion 04.55 - 06.00 Despierta con Onda 06.00 - 08.00 Tarija y su música 08.00 - 11.30 De todo para todos 11.30 - 12.00 Música de recuerdo 12.00 - 14.00 Bolivia informa - Folklore 14.00...",
+  "links": {
+   "facebook": "https://www.facebook.com/AncoraThemes/",
+   "instagram": "https://www.instagram.com/ancora_themes/",
+   "twitter": "https://twitter.com/themes_ancora",
+   "youtube": "https://www.youtube.com/channel/UCdIjRh7-lPVHqTTKpaf8PLA"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://ondatarijaradio.com/"
+ },
+ "rg-UvMr63ab": {
+  "checked": 1794415610,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiomundialbolivia",
+   "instagram": "https://www.instagram.com/radiomundial_bo/",
+   "whatsapp": "https://wa.me/59175440823"
+  },
+  "logo_url": "https://mundial.fm/wp-content/uploads/2026/09/cropped-site-icon-180x180.png",
+  "ok": true,
+  "website": "https://mundial.fm/"
+ },
+ "rg-Uvz0Cr_q": {
+  "checked": 1794415598,
+  "ok": false
+ },
+ "rg-YeLrKnN_": {
+  "checked": 1794415607,
+  "color": "",
+  "cover_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/HmlSqNM8f6W1YCSA/logo-ciudad-radio-2024-xMd1jpY4A4mExjTz.png",
+  "description": "",
+  "links": {},
+  "logo_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/HmlSqNM8f6W1YCSA/logo-ciudad-radio-2024-xMd1jpY4A4mExjTz.png",
+  "ok": true,
+  "website": "https://ciudadradiobolivia.com"
+ },
+ "rg-buCRjEcK": {
+  "checked": 1794415601,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiotransamericana/",
+   "instagram": "https://www.instagram.com/radiotransamericana/",
+   "twitter": "https://x.com/transaoruro?lang=es"
+  },
+  "logo_url": "https://transamericana.com/wp-content/uploads/2023/07/favicon.png",
+  "ok": true,
+  "website": "https://transamericana.com/"
+ },
+ "rg-dDedyPE0": {
+  "checked": 1794415598,
+  "color": "",
+  "cover_url": "",
+  "description": "Día de la Reforma CONOCE MÁS Hace más de quinientos años, en medio del silencio religioso y la oscuridad espiritual de una Europa dominada por la tradición, surgieron voces que se atrevieron a hablar. RADIO ... Read More",
+  "links": {
+   "facebook": "https://www.facebook.com/rtmbolivia.fm",
+   "instagram": "https://www.instagram.com/rtmbolivia",
+   "twitter": "https://x.com/rtmbolivia",
+   "whatsapp": "https://wa.me/59174606806",
+   "youtube": "https://www.youtube.com/@rtmbolivia"
+  },
+  "logo_url": "https://rtmbolivia.org/wp-content/uploads/2020/03/ICON_RTM.png",
+  "ok": true,
+  "website": "https://rtmbolivia.org/"
+ },
+ "rg-e0blGU5L": {
+  "checked": 1794415606,
+  "ok": false
+ },
+ "rg-ew7wWBdd": {
+  "checked": 1794415604,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio Nacional de Huanuni, En vivo desde Oruro, Bolivia. Para todo el mundo.",
+  "links": {
+   "facebook": "https://www.facebook.com/profile.php?id=61560181480163",
+   "twitter": "https://twitter.com/home?lang=es",
+   "whatsapp": "https://wa.me/59168350848"
+  },
+  "logo_url": "https://www.radionacionaldehuanuni.com/img/1024.png",
+  "ok": true,
+  "website": "https://www.radionacionaldehuanuni.com/"
+ },
+ "rg-f-ZFTFhW": {
+  "checked": 1794415597,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio En Vivo 0.5K Compartidas Facebook 45 Share Twitter 34 Share Facebook Messenger 20 Share Skype 0.3K Share WhatsApp 45 Share Telegram Comentarios",
+  "links": {
+   "facebook": "https://www.facebook.com/radiomixshow931/",
+   "instagram": "https://www.instagram.com/radiomixbolivia/",
+   "twitter": "https://twitter.com/RMix931Bolivia?s=20&t=rUXQ6Q4U8kiMaD8ULhGGtA"
+  },
+  "logo_url": "https://radiomixshow.com/wp-content/uploads/2026/10/cropped-34ea0f33-3553-45c0-9dce-9947da3e2c5f-180x180.jpeg",
+  "ok": true,
+  "website": "https://radiomixshow.com/"
+ },
+ "rg-fXrYn4KQ": {
+  "checked": 1794415610,
+  "color": "",
+  "cover_url": "https://radiogigantecbba.com/wp-content/uploads/2022/06/logogiganteapp512.jpg",
+  "description": "Radio Gigante, es un medio de comunicacion de programacion variada que esta a la vanguardia de la tecnología, llegamos con nuestra señal abierta 91.3 FM Cochabamba.",
+  "links": {
+   "facebook": "https://www.facebook.com/radiogigante91.3fm"
+  },
+  "logo_url": "https://radiogigantecbba.com/wp-content/uploads/2022/06/cropped-logogiganteapp512-180x180.jpg",
+  "ok": true,
+  "website": "https://radiogigantecbba.com"
+ },
+ "rg-fj0bnWYI": {
+  "checked": 1794415599,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiosangabrieldebolivia",
+   "instagram": "https://www.instagram.com/radiosangabrielbolivia2",
+   "tiktok": "https://www.tiktok.com/@radiosangabrielbolivia",
+   "twitter": "https://x.com/RadioSanGabrie1",
+   "youtube": "https://www.youtube.com/@RadioSanGabrielBolivia"
+  },
+  "logo_url": "https://radiosangabriel.org.bo/wp-content/uploads/2025/12/cropped-idSiteRSG-180x180.png",
+  "ok": true,
+  "website": "https://radiosangabriel.org.bo/"
+ },
+ "rg-gKOm0BRp": {
+  "checked": 1794415607,
+  "color": "",
+  "cover_url": "",
+  "description": "La super Sabrosona de \"Montero\"",
+  "links": {
+   "facebook": "https://www.facebook.com/javierespinozaguzman?ref=bookmarks"
+  },
+  "logo_url": "https://radioturbomixmontero.com/templates/untitled/images/designer/7a6bf695dd31e6da761c9ead91705a7e_ICONODEAPP512.png",
+  "ok": true,
+  "website": "https://radioturbomixmontero.com"
+ },
+ "rg-gNTIsMQV": {
+  "checked": 1794415609,
+  "color": "",
+  "cover_url": "https://image.jimcdn.com/app/cms/image/transf/dimension=2000x1500:format=jpg/path/sb220ff48f8d740e6/backgroundarea/ib29a3dc42009ce4a/version/1467927592/image.jpg",
+  "description": "Durante la última década, “Thriller” fue el disco más vendido de la historia. Luego del impactante fallecimiento de Michael Jackson en el año 2009, los ingresos del “Rey del Pop” ascendieron como la espuma, por lo que...",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://oxigenofm.jimdofree.com"
+ },
+ "rg-gfWgP--x": {
+  "checked": 1794415590,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/RadioImpactoBolivia"
+  },
+  "logo_url": "https://impactobolivia.com/wp-content/uploads/2023/05/impacto.png",
+  "ok": true,
+  "website": "https://impactobolivia.com"
+ },
+ "rg-glXH1Kya": {
+  "checked": 1794415600,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio Caliente Oruro, Transmision en vivo desde Oruro, Bolivia. Para todo el mundo.",
+  "links": {},
+  "logo_url": "https://www.radiocalienteoruro.com/assets/img/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://www.radiocalienteoruro.com"
+ },
+ "rg-hqmodV7S": {
+  "checked": 1794415605,
+  "color": "",
+  "cover_url": "https://zeno.fm/_og/d/c_Entity,title_Listen+to+Radio+La+Cruz+del+Sur+Tarija,subtitle_Music,image_~aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0YTJ2a3dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3c3cV9HM0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcwNzIzNTM4OTAwMA,p_Ii9yYWRpby9sYWNydXp0YXJpamEvIg,s_d4JhEJHL_gtRP8wL.png",
+  "description": "Tune in to Radio La Cruz del Sur Tarija and enjoy the best of Music radio. Stream live broadcasts, catch up on past episodes, and stay updated with the latest news and announcements.",
+  "links": {
+   "facebook": "https://www.facebook.com/LaCruzTarijaOficial",
+   "instagram": "https://www.instagram.com/la_cruz_tarija/"
+  },
+  "logo_url": "https://zeno.fm/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://zeno.fm/radio/lacruztarija/"
+ },
+ "rg-iRPMuqCi": {
+  "checked": 1794415610,
+  "color": "#14532d",
+  "cover_url": "https://www.contemporaneadigital.com/assets/img/banner.png",
+  "description": "Radio Contemporánea, la emisora líder de Caranavi. Noticias, programación, videos y galería desde la capital cafetalera de Bolivia.",
+  "links": {
+   "facebook": "https://facebook.com/radiocontemporanea",
+   "instagram": "https://www.instagram.com/@radiocontemporanea",
+   "tiktok": "https://www.tiktok.com/@radiocontemporanea",
+   "whatsapp": "https://wa.me/59174018872",
+   "youtube": "https://youtube.com/@radiocontemporanea"
+  },
+  "logo_url": "https://www.contemporaneadigital.com/assets/img/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://www.contemporaneadigital.com"
+ },
+ "rg-k1gTOIPC": {
+  "checked": 1794415590,
+  "ok": false
+ },
+ "rg-kK_RMFBs": {
+  "checked": 1794415609,
+  "color": "",
+  "cover_url": "https://grupocentro.com.bo/assets/fondos/cover-min.jpg",
+  "description": "Toda la información en un solo lugar",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://grupocentro.com.bo"
+ },
+ "rg-lJTZeyiD": {
+  "checked": 1794415589,
+  "ok": false
+ },
+ "rg-mNsHi7dI": {
+  "checked": 1794415600,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.boliviapuntotv.com/cgi-sys/suspendedpage.cgi"
+ },
+ "rg-mTvfeeYk": {
+  "checked": 1794415602,
+  "color": "",
+  "cover_url": "https://www.wkmradio.com/wp-content/uploads/2024/02/WKMRadioWeb1.webp",
+  "description": "Bienvenidos a WKM Radio OnDemand. Ecucha programas de radio, podcasts, especiales y contenido exclusivo cuando quieras y donde quieras.",
+  "links": {
+   "facebook": "https://www.facebook.com/WKMRadio",
+   "instagram": "https://www.instagram.com/wkmradio",
+   "tiktok": "https://tiktok.com/@wkmradio",
+   "twitter": "https://x.com/WKMRadio",
+   "whatsapp": "https://api.whatsapp.com/send/?phone=59164040408",
+   "youtube": "https://www.youtube.com/WKMRadioTv"
+  },
+  "logo_url": "https://www.wkmradio.com/wp-content/uploads/2023/06/cropped-Favicon2-180x180.png",
+  "ok": true,
+  "website": "https://www.wkmradio.com/"
+ },
+ "rg-p2OIroTw": {
+  "checked": 1794415602,
+  "ok": false
+ },
+ "rg-tRiEnCzO": {
+  "checked": 1794415589,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/ErbolDigital/",
+   "twitter": "https://x.com/ErbolDigital",
+   "youtube": "https://www.youtube.com/user/rederbol"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.erbol.com.bo/"
+ },
+ "rg-tpsaiXUv": {
+  "checked": 1794415602,
+  "color": "",
+  "cover_url": "https://www.stereohitsradio.com/images/ACTUALIDAD/JULIO-23/240b8e82-eed7-4bc3-b1c8-11d17517a86a_alta-libre-aspect-ratio_default_0.jpg",
+  "description": "UNA RADIO CON PASIÓN POR LA MÚSICA Potosi- Bolivia",
+  "links": {
+   "facebook": "https://www.facebook.com/stereohitslaradiodelfuturo",
+   "instagram": "https://www.instagram.com/stereo_hits_radio/",
+   "youtube": "https://www.youtube.com/@RankingStereoTopBol"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.stereohitsradio.com"
+ },
+ "rg-ucWQXUyH": {
+  "checked": 1794415609,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://radioclasica100.com"
+ },
+ "rg-x3ffCyI2": {
+  "checked": 1794415609,
+  "ok": false
+ },
+ "rg-yKNCVhBN": {
+  "checked": 1794415610,
+  "color": "",
+  "cover_url": "https://zeno.fm/_og/d/c_Entity,title_Listen+to+RADIO+AMERICA+99.7,subtitle_General,image_~aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lfY21odXdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElzdHpqaXdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3ODM3NzQwMTAwMA,p_Ii9yYWRpby9yYWRpby1hbWVyaWNhLTk5LTcvIg,s_ezbOX_qU_I9PSHL0.png",
+  "description": "Tune in to RADIO AMERICA 99.7 and enjoy the best of Spanish (Spain) General radio. Stream live broadcasts, catch up on past episodes, and stay updated with the latest news and announcements.",
+  "links": {},
+  "logo_url": "https://zeno.fm/apple-touch-icon.png",
+  "ok": true,
+  "website": "https://zeno.fm/radio/radio-america-99-7/"
+ },
+ "rg-zABCk1nd": {
+  "checked": 1794415598,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/centrodepreparaciondeltabolivia",
+   "youtube": "https://www.youtube.com/channel/UC6YXA70lZD7AsMC1NkGsSsg"
+  },
+  "logo_url": "https://deltaboliviainstitucion.org/wp-content/uploads/2024/06/cropped-LOGO-DELTA-BOLVIA-180x180.jpg",
+  "ok": true,
+  "website": "https://deltaboliviainstitucion.org"
+ },
+ "rg-zBGCTZb6": {
+  "checked": 1794415587,
+  "ok": false
+ },
+ "rg-zUVVsrF3": {
+  "checked": 1794415590,
+  "ok": false
  }
 }
