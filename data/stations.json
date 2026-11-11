@@ -80,9 +80,9 @@
   "is_featured": false,
   "website": "https://www.elfindelsilencio.com/",
   "links": {
-   "twitter": "https://twitter.com/@elfin_bo",
-   "instagram": "https://instagram.com/fincho_cbba",
    "facebook": "https://www.facebook.com/FindelSilencio",
+   "instagram": "https://instagram.com/fincho_cbba",
+   "twitter": "https://twitter.com/@elfin_bo",
    "whatsapp": "https://wa.me/59170784608"
   },
   "programs": [],
@@ -128,8 +128,8 @@
    "facebook": "https://www.facebook.com/EresRadiobo/",
    "instagram": "https://www.instagram.com/eresradio/",
    "tiktok": "https://www.tiktok.com/@eresradio",
-   "youtube": "https://www.youtube.com/watch?v=gIOjwdN8Y2E",
-   "whatsapp": "https://wa.me/59169111111"
+   "whatsapp": "https://wa.me/59169111111",
+   "youtube": "https://www.youtube.com/watch?v=gIOjwdN8Y2E"
   },
   "programs": [],
   "language": "english,spanish",
@@ -196,10 +196,10 @@
   "website": "https://fmlapaz.bo/en-vivo/",
   "links": {
    "facebook": "https://www.facebook.com/lapazmedia967",
-   "twitter": "https://twitter.com/lapazmedia967",
    "instagram": "https://instagram.com/lapazmedia967",
-   "youtube": "https://www.youtube.com/@lapazmedia967",
-   "tiktok": "https://www.tiktok.com/@lapazmedia967"
+   "tiktok": "https://www.tiktok.com/@lapazmedia967",
+   "twitter": "https://twitter.com/lapazmedia967",
+   "youtube": "https://www.youtube.com/@lapazmedia967"
   },
   "programs": [],
   "language": "",
@@ -222,10 +222,10 @@
   "website": "https://fmlapaz.bo/",
   "links": {
    "facebook": "https://www.facebook.com/lapazmedia967",
-   "twitter": "https://twitter.com/lapazmedia967",
    "instagram": "https://instagram.com/lapazmedia967",
-   "youtube": "https://www.youtube.com/@lapazmedia967",
-   "tiktok": "https://www.tiktok.com/@lapazmedia967"
+   "tiktok": "https://www.tiktok.com/@lapazmedia967",
+   "twitter": "https://twitter.com/lapazmedia967",
+   "youtube": "https://www.youtube.com/@lapazmedia967"
   },
   "programs": [],
   "language": "spanish",
@@ -271,10 +271,10 @@
   "is_featured": false,
   "website": "https://radiomelodia.fm/",
   "links": {
-   "whatsapp": "https://wa.me/59162589991?text=Hola%2C%20escribo%20desde%20radiomelodia.fm.%20Quisiera%20comunicarme%20con%20cabina.",
    "facebook": "https://www.facebook.com/radiomelodia991",
    "instagram": "https://www.instagram.com/radiomelodia.fm/",
-   "tiktok": "https://www.tiktok.com/@radiomelodia.fm"
+   "tiktok": "https://www.tiktok.com/@radiomelodia.fm",
+   "whatsapp": "https://wa.me/59162589991?text=Hola%2C%20escribo%20desde%20radiomelodia.fm.%20Quisiera%20comunicarme%20con%20cabina."
   },
   "programs": [],
   "language": "",
@@ -337,10 +337,10 @@
   "website": "https://radioacer.com/",
   "links": {
    "facebook": "https://www.facebook.com/RadioAcerOficial",
-   "twitter": "https://x.com/RedAcerOficial",
-   "tiktok": "https://www.tiktok.com/@radioaceroficial",
-   "whatsapp": "https://wa.me/+59162182803",
    "instagram": "https://www.instagram.com/radioaceroficial/",
+   "tiktok": "https://www.tiktok.com/@radioaceroficial",
+   "twitter": "https://x.com/RedAcerOficial",
+   "whatsapp": "https://wa.me/+59162182803",
    "youtube": "https://www.youtube.com/@radioacer"
   },
   "programs": [],
@@ -658,8 +658,8 @@
   "website": "https://www.horizontes.com.bo/",
   "links": {
    "facebook": "https://www.facebook.com/RadioTvHorizontesSucre",
-   "youtube": "https://www.youtube.com/@horizontessucre",
-   "whatsapp": "https://wa.me/59172886676"
+   "whatsapp": "https://wa.me/59172886676",
+   "youtube": "https://www.youtube.com/@horizontessucre"
   },
   "programs": [],
   "language": "español - latinoamerica",
@@ -744,8 +744,8 @@
   "is_featured": false,
   "website": "https://rtvpueblo.blogspot.com/",
   "links": {
-   "twitter": "https://twitter.com/rtvpueblo1",
-   "facebook": "https://facebook.com/radiopueblo.bo"
+   "facebook": "https://facebook.com/radiopueblo.bo",
+   "twitter": "https://twitter.com/rtvpueblo1"
   },
   "programs": [],
   "language": "español - latinoamerica",
@@ -788,8 +788,8 @@
   "website": "https://radiopueblodigital.blogspot.com/",
   "links": {
    "facebook": "https://www.facebook.com/radiopueblobolivia/",
-   "youtube": "https://www.youtube.com/@radiopueblobolivia/streams/",
-   "tiktok": "https://www.tiktok.com/@elreportero"
+   "tiktok": "https://www.tiktok.com/@elreportero",
+   "youtube": "https://www.youtube.com/@radiopueblobolivia/streams/"
   },
   "programs": [],
   "language": "",
@@ -916,8 +916,8 @@
   "is_featured": false,
   "website": "https://urbana.com.bo/",
   "links": {
-   "youtube": "https://www.youtube.com/@radiourbana95.2",
-   "instagram": "https://www.instagram.com/radiourbana95_2"
+   "instagram": "https://www.instagram.com/radiourbana95_2",
+   "youtube": "https://www.youtube.com/@radiourbana95.2"
   },
   "programs": [],
   "language": "#spanish",
@@ -960,9 +960,9 @@
   "website": "https://www.radiosatbolivia.com/",
   "links": {
    "facebook": "https://www.facebook.com/radiosatfmbolivia",
-   "twitter": "https://twitter.com/radiosatbolivia",
    "instagram": "https://www.instagram.com/radiosatbolivia",
    "tiktok": "https://www.tiktok.com/@radiosatbolivia",
+   "twitter": "https://twitter.com/radiosatbolivia",
    "whatsapp": "https://api.whatsapp.com/send?phone=59176604441",
    "youtube": "https://www.youtube.com/@radiosatbolivia"
   },
@@ -1007,8 +1007,8 @@
   "website": "https://kawsachuncoca.com/radio",
   "links": {
    "facebook": "https://www.facebook.com/RadioKawsachunCoca/",
-   "youtube": "https://www.youtube.com/@RadioKawsachunCocaRKCTV",
-   "tiktok": "https://www.tiktok.com/@kawsachuncocaoficial"
+   "tiktok": "https://www.tiktok.com/@kawsachuncocaoficial",
+   "youtube": "https://www.youtube.com/@RadioKawsachunCocaRKCTV"
   },
   "programs": [],
   "language": "",
@@ -1052,10 +1052,10 @@
   "is_featured": false,
   "website": "https://stereo97.fm/",
   "links": {
-   "whatsapp": "https://wa.me/59169733039?text=Hola%2C%20escribo%20desde%20stereo97.fm.%20Quisiera%20hablar%20con%20cabina%20sobre%20un%20proyecto%20o%20enviar%20un%20saludo.",
    "facebook": "https://www.facebook.com/Stereo97Bolivia",
    "instagram": "https://www.instagram.com/stereo97.3/",
-   "tiktok": "https://www.tiktok.com/@stereo97.3"
+   "tiktok": "https://www.tiktok.com/@stereo97.3",
+   "whatsapp": "https://wa.me/59169733039?text=Hola%2C%20escribo%20desde%20stereo97.fm.%20Quisiera%20hablar%20con%20cabina%20sobre%20un%20proyecto%20o%20enviar%20un%20saludo."
   },
   "programs": [],
   "language": "spanish",
@@ -1077,10 +1077,10 @@
   "is_featured": false,
   "website": "https://stereo97.fm/",
   "links": {
-   "whatsapp": "https://wa.me/59169733039?text=Hola%2C%20escribo%20desde%20stereo97.fm.%20Quisiera%20hablar%20con%20cabina%20sobre%20un%20proyecto%20o%20enviar%20un%20saludo.",
    "facebook": "https://www.facebook.com/Stereo97Bolivia",
    "instagram": "https://www.instagram.com/stereo97.3/",
-   "tiktok": "https://www.tiktok.com/@stereo97.3"
+   "tiktok": "https://www.tiktok.com/@stereo97.3",
+   "whatsapp": "https://wa.me/59169733039?text=Hola%2C%20escribo%20desde%20stereo97.fm.%20Quisiera%20hablar%20con%20cabina%20sobre%20un%20proyecto%20o%20enviar%20un%20saludo."
   },
   "programs": [],
   "language": "",
