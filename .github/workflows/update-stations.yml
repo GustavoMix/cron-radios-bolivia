@@ -5,7 +5,7 @@ on:
     - cron: "0 6 * * *"   # todos los dias 06:00 UTC (02:00 Bolivia)
   workflow_dispatch:       # boton "Run workflow" manual
   push:
-    paths: [update_stations.py, enrich.py, data/overrides.json]
+    paths: [update_stations.py, enrich.py, sources_garden.py, data/overrides.json]
 
 permissions:
   contents: write
