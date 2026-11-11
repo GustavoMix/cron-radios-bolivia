@@ -189,9 +189,13 @@ def build(raw_list: list[dict], overrides: dict, cache: dict | None = None) -> l
         enrich.enrich_all(stations, cache)
     stations = apply_overrides(stations, overrides)   # lo manual siempre gana
     for s in stations:
-        s.pop("votes", None)
-    # destacadas primero, luego alfabetico sin tildes
-    stations.sort(key=lambda s: (not s.get("is_featured", False), norm(s["name"])))
+        s.setdefault("votes", 0)
+    # ranking: mas votadas primero (desempata por nombre). `rank` 1 = la mas votada.
+    stations.sort(key=lambda s: (-s["votes"], norm(s["name"])))
+    for i, s in enumerate(stations, 1):
+        s["rank"] = i
+    # las marcadas a mano como destacadas (en overrides) van antes, sin cambiar su rank
+    stations.sort(key=lambda s: not s.get("is_featured", False))
     return stations
 
 

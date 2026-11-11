@@ -40,7 +40,17 @@ class Tests(unittest.TestCase):
         out = u.build([a, b, c], {"exclude": ["Radio C"],
                                   "add": [{"name": "Manual", "stream_url": "https://m.com/s"}]})
         self.assertEqual(sorted(s["name"] for s in out), ["Manual", "Otra"])
-        self.assertTrue(all("votes" not in s for s in out))
+
+    def test_ranking_por_votos(self):
+        a = raw(stationuuid="a", name="Radio A", url_resolved="https://x.com/1", votes=5)
+        b = raw(stationuuid="b", name="Radio B", url_resolved="https://x.com/2", votes=50)
+        c = raw(stationuuid="c", name="Radio C", url_resolved="https://x.com/3", votes=20)
+        out = u.build([a, b, c], {})
+        self.assertEqual([(s["name"], s["rank"]) for s in out],
+                         [("Radio B", 1), ("Radio C", 2), ("Radio A", 3)])
+        out = u.build([a, b, c], {"patch": {"Radio A": {"is_featured": True}}})
+        self.assertEqual(out[0]["name"], "Radio A")      # destacada a mano primero
+        self.assertEqual(out[0]["rank"], 3)              # pero conserva su ranking real
 
 
 class EnrichTests(unittest.TestCase):
