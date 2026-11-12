@@ -34,6 +34,19 @@
   "ok": true,
   "website": "https://radiopueblodigital.blogspot.com/"
  },
+ "0fe4e8a7-d335-4a67-a305-b6e3a2f6bd6c": {
+  "checked": 1794492498,
+  "color": "",
+  "cover_url": "https://www.radiofronterayacuiba.com/imagenes/radiofronterayacuiba.jpg",
+  "description": "Escucha Radio Frontera FM 100.3 en vivo desde Yacuiba. La voz fraterna del sudeste boliviano transmitiendo para el mundo.",
+  "links": {
+   "facebook": "https://www.facebook.com/radiofronterayacuiba",
+   "whatsapp": "https://wa.me/59161988640"
+  },
+  "logo_url": "https://radiofronterayacuiba.com/imagenes/favicon.png",
+  "ok": true,
+  "website": "https://radiofronterayacuiba.com/"
+ },
  "151e5b46-11aa-460b-a261-7dc4de5117a8": {
   "checked": 1794415586,
   "color": "",
@@ -407,16 +420,6 @@
   "checked": 1794413657,
   "ok": false
  },
- "80a8e612-2804-4f1b-82e3-8121b65562aa": {
-  "checked": 1794413665,
-  "color": "",
-  "cover_url": "",
-  "description": "",
-  "links": {},
-  "logo_url": "https://i.ibb.co/v6BKzZfx/logo-viacha.jpg",
-  "ok": true,
-  "website": "https://viacha.gob.bo/"
- },
  "81d58170-2f06-47fb-be37-e6c638f09bdf": {
   "checked": 1794413657,
   "ok": false
@@ -481,25 +484,37 @@
   "ok": true,
   "website": "https://quechuafm.es.tl/"
  },
- "c5ef3a09-d75e-404c-967e-a63df36c2460": {
-  "checked": 1794415586,
-  "color": "",
-  "cover_url": "",
-  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
-  "links": {
-   "facebook": "https://www.facebook.com/RadioFidesBolivia",
-   "instagram": "https://www.instagram.com/radiofidesbolivia",
-   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
-   "twitter": "https://twitter.com/GrupoFides",
-   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
-  },
-  "logo_url": "https://cdn-profiles.tunein.com/s13712/images/logog.png?t=154460",
-  "ok": true,
-  "website": "https://radiofides.com/"
- },
  "c7a0ea30-245c-4369-9f40-ece49d0fd245": {
   "checked": 1794413669,
   "ok": false
+ },
+ "ca8f85c2-464c-411a-a8b1-8507da3f6558": {
+  "checked": 1794492498,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/radiosangabrieldebolivia",
+   "instagram": "https://www.instagram.com/radiosangabrielbolivia2",
+   "tiktok": "https://www.tiktok.com/@radiosangabrielbolivia",
+   "twitter": "https://x.com/RadioSanGabrie1",
+   "youtube": "https://www.youtube.com/@RadioSanGabrielBolivia"
+  },
+  "logo_url": "https://graph.facebook.com/radiosangabrieldebolivia/picture?type=large",
+  "ok": true,
+  "website": "https://radiosangabriel.org.bo/?id=am"
+ },
+ "cb1fb8a2-99eb-457a-9628-04f7cba06958": {
+  "checked": 1794492498,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/RadioFidesBolivia/live/"
+  },
+  "logo_url": "https://cdn-profiles.tunein.com/s13712/images/logog.png?t=154460",
+  "ok": true,
+  "website": "https://www.radiofides.com/radio-online"
  },
  "cbbc409c-bff4-4f59-a07a-5b690cb8ebc8": {
   "checked": 1794413657,
@@ -698,6 +713,20 @@
   "ok": true,
   "website": "https://www.radioritmo98.com"
  },
+ "rg-19j7szQa": {
+  "checked": 1794492498,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/Radio-Integraci%C3%B3n-640-AM-524275041268579",
+   "twitter": "https://twitter.com/integracion640",
+   "youtube": "https://www.youtube.com/channel/UCTFFjnbcYyU0trRtDB7KBag"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.radiointegracion.com"
+ },
  "rg-2TggHcdB": {
   "checked": 1794415591,
   "ok": false
@@ -778,6 +807,18 @@
   "logo_url": "https://radiocatolicacarisma.com/assets/img/marca/icono-v2-180.png",
   "ok": true,
   "website": "https://radiocatolicacarisma.com/"
+ },
+ "rg-ENSKmxJr": {
+  "checked": 1794492498,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://es-la.facebook.com/RadioLetaniasViacha/"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://prodhcam.wixsite.com/radioletanias"
  },
  "rg-FUK01Jer": {
   "checked": 1794415595,
@@ -895,16 +936,6 @@
   "logo_url": "https://zeno.fm/apple-touch-icon.png",
   "ok": true,
   "website": "https://zeno.fm/radio/bartolina-tv/"
- },
- "rg-LBfuSOOq": {
-  "checked": 1794415606,
-  "color": "",
-  "cover_url": "https://www.radioguadalupellallagua.com/assets/redes.png",
-  "description": "Las Mejores Radios del Momento",
-  "links": {},
-  "logo_url": "https://www.radioguadalupellallagua.com/assets/favicon.png",
-  "ok": true,
-  "website": "https://www.radioguadalupellallagua.com"
  },
  "rg-M10tiQe3": {
   "checked": 1794415597,
@@ -1026,6 +1057,10 @@
   "checked": 1794415589,
   "ok": false
  },
+ "rg-T5ZYOo18": {
+  "checked": 1794492498,
+  "ok": false
+ },
  "rg-UPDcqbfN": {
   "checked": 1794415591,
   "color": "",
@@ -1052,21 +1087,6 @@
   "logo_url": "",
   "ok": true,
   "website": "https://topcamiri.rtvenvivo.com"
- },
- "rg-UjdPar2V": {
-  "checked": 1794415605,
-  "color": "",
-  "cover_url": "",
-  "description": "Contigo toda la semanaProgramacion 04.55 - 06.00 Despierta con Onda 06.00 - 08.00 Tarija y su música 08.00 - 11.30 De todo para todos 11.30 - 12.00 Música de recuerdo 12.00 - 14.00 Bolivia informa - Folklore 14.00...",
-  "links": {
-   "facebook": "https://www.facebook.com/AncoraThemes/",
-   "instagram": "https://www.instagram.com/ancora_themes/",
-   "twitter": "https://twitter.com/themes_ancora",
-   "youtube": "https://www.youtube.com/channel/UCdIjRh7-lPVHqTTKpaf8PLA"
-  },
-  "logo_url": "",
-  "ok": true,
-  "website": "https://ondatarijaradio.com/"
  },
  "rg-UvMr63ab": {
   "checked": 1794415610,
@@ -1130,6 +1150,10 @@
   "checked": 1794415606,
   "ok": false
  },
+ "rg-eLOFCHA1": {
+  "checked": 1794492498,
+  "ok": false
+ },
  "rg-ew7wWBdd": {
   "checked": 1794415604,
   "color": "",
@@ -1169,22 +1193,6 @@
   "logo_url": "https://radiogigantecbba.com/wp-content/uploads/2022/06/cropped-logogiganteapp512-180x180.jpg",
   "ok": true,
   "website": "https://radiogigantecbba.com"
- },
- "rg-fj0bnWYI": {
-  "checked": 1794415599,
-  "color": "",
-  "cover_url": "",
-  "description": "",
-  "links": {
-   "facebook": "https://www.facebook.com/radiosangabrieldebolivia",
-   "instagram": "https://www.instagram.com/radiosangabrielbolivia2",
-   "tiktok": "https://www.tiktok.com/@radiosangabrielbolivia",
-   "twitter": "https://x.com/RadioSanGabrie1",
-   "youtube": "https://www.youtube.com/@RadioSanGabrielBolivia"
-  },
-  "logo_url": "https://radiosangabriel.org.bo/wp-content/uploads/2025/12/cropped-idSiteRSG-180x180.png",
-  "ok": true,
-  "website": "https://radiosangabriel.org.bo/"
  },
  "rg-gKOm0BRp": {
   "checked": 1794415607,
@@ -1307,6 +1315,22 @@
  "rg-p2OIroTw": {
   "checked": 1794415602,
   "ok": false
+ },
+ "rg-pk29fLnA": {
+  "checked": 1794492498,
+  "color": "",
+  "cover_url": "https://xn--redchuquisaquea-crb.com/wp-content/uploads/2026/10/PORTADA-YT-1024x576.jpg",
+  "description": "",
+  "links": {
+   "facebook": "https://facebook.com/redchuqui",
+   "instagram": "https://instagram.com/redchuqui",
+   "tiktok": "https://www.tiktok.com/@redchuqui",
+   "twitter": "https://twitter.com/redchuqui",
+   "youtube": "https://youtube.com/@redchuqui?sub_confirmation=1"
+  },
+  "logo_url": "https://xn--redchuquisaquea-crb.com/wp-content/uploads/2025/05/cropped-logo-con-transparencia-solo-1-180x180.png",
+  "ok": true,
+  "website": "https://xn--redchuquisaquea-crb.com"
  },
  "rg-tRiEnCzO": {
   "checked": 1794415589,
