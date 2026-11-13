@@ -677,19 +677,6 @@
   "ok": true,
   "website": "https://zeno.fm/radio/radio-supermixj/"
  },
- "rg-09abGSAq": {
-  "checked": 1794415600,
-  "color": "",
-  "cover_url": "https://www.studio94.com.bo/wp-content/uploads/2024/07/LOGO-SOLO-ROJO-1.png",
-  "description": "Alles rund um das Erlebnis bei Lemon Casino Wer auf der Suche nach einer unterhaltsamen und abwechslungsreichen Spielumgebung ist, findet hier eine ideale Anlaufstelle. Für den schnellen Zugang zu Ihrem persönlichen...",
-  "links": {
-   "facebook": "https://www.facebook.com/STUDIO94FMBOLIVIA/",
-   "whatsapp": "https://wa.me/59162755900"
-  },
-  "logo_url": "https://www.studio94.com.bo/wp-content/uploads/2024/07/cropped-LOGO-SOLO-ROJO-1-2-180x180.png",
-  "ok": true,
-  "website": "https://www.studio94.com.bo/"
- },
  "rg-0D9tQQZC": {
   "checked": 1794415589,
   "color": "",
@@ -712,6 +699,10 @@
   "logo_url": "",
   "ok": true,
   "website": "https://www.radioritmo98.com"
+ },
+ "rg-0bX-gJ61": {
+  "checked": 1794576762,
+  "ok": false
  },
  "rg-19j7szQa": {
   "checked": 1794492498,
@@ -852,6 +843,16 @@
   "ok": true,
   "website": "https://energy.boliviasitios.com"
  },
+ "rg-FxfZVibj": {
+  "checked": 1794576762,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio paceña decidida a emitir musica las 24 horas del dia, con 30 años de experiencia somos tu mejor compañía, transmitimos tu sentir y te ayudamos a alegrar tu dia a dia.",
+  "links": {},
+  "logo_url": "https://ciudad91.net/logo192.png",
+  "ok": true,
+  "website": "https://ciudad91.net"
+ },
  "rg-GcUE049D": {
   "checked": 1794415609,
   "color": "",
@@ -936,6 +937,16 @@
   "logo_url": "https://zeno.fm/apple-touch-icon.png",
   "ok": true,
   "website": "https://zeno.fm/radio/bartolina-tv/"
+ },
+ "rg-LBfuSOOq": {
+  "checked": 1794576762,
+  "color": "",
+  "cover_url": "https://www.radioguadalupellallagua.com/assets/redes.png",
+  "description": "Las Mejores Radios del Momento",
+  "links": {},
+  "logo_url": "https://www.radioguadalupellallagua.com/assets/favicon.png",
+  "ok": true,
+  "website": "https://www.radioguadalupellallagua.com"
  },
  "rg-M10tiQe3": {
   "checked": 1794415597,
@@ -1057,10 +1068,6 @@
   "checked": 1794415589,
   "ok": false
  },
- "rg-T5ZYOo18": {
-  "checked": 1794492498,
-  "ok": false
- },
  "rg-UPDcqbfN": {
   "checked": 1794415591,
   "color": "",
@@ -1088,6 +1095,21 @@
   "ok": true,
   "website": "https://topcamiri.rtvenvivo.com"
  },
+ "rg-UjdPar2V": {
+  "checked": 1794576762,
+  "color": "",
+  "cover_url": "",
+  "description": "Contigo toda la semanaProgramacion 04.55 - 06.00 Despierta con Onda 06.00 - 08.00 Tarija y su música 08.00 - 11.30 De todo para todos 11.30 - 12.00 Música de recuerdo 12.00 - 14.00 Bolivia informa - Folklore 14.00...",
+  "links": {
+   "facebook": "https://www.facebook.com/AncoraThemes/",
+   "instagram": "https://www.instagram.com/ancora_themes/",
+   "twitter": "https://twitter.com/themes_ancora",
+   "youtube": "https://www.youtube.com/channel/UCdIjRh7-lPVHqTTKpaf8PLA"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://ondatarijaradio.com/"
+ },
  "rg-UvMr63ab": {
   "checked": 1794415610,
   "color": "",
@@ -1106,15 +1128,9 @@
   "checked": 1794415598,
   "ok": false
  },
- "rg-YeLrKnN_": {
-  "checked": 1794415607,
-  "color": "",
-  "cover_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/HmlSqNM8f6W1YCSA/logo-ciudad-radio-2024-xMd1jpY4A4mExjTz.png",
-  "description": "",
-  "links": {},
-  "logo_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/HmlSqNM8f6W1YCSA/logo-ciudad-radio-2024-xMd1jpY4A4mExjTz.png",
-  "ok": true,
-  "website": "https://ciudadradiobolivia.com"
+ "rg-YfFcwOfd": {
+  "checked": 1794576762,
+  "ok": false
  },
  "rg-buCRjEcK": {
   "checked": 1794415601,
@@ -1332,6 +1348,22 @@
   "ok": true,
   "website": "https://xn--redchuquisaquea-crb.com"
  },
+ "rg-rM06pIMf": {
+  "checked": 1794576762,
+  "color": "",
+  "cover_url": "",
+  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
+  "links": {
+   "facebook": "https://www.facebook.com/RadioFidesBolivia",
+   "instagram": "https://www.instagram.com/radiofidesbolivia",
+   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
+   "twitter": "https://twitter.com/GrupoFides",
+   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://radiofides.com/"
+ },
  "rg-tRiEnCzO": {
   "checked": 1794415589,
   "color": "",
@@ -1369,6 +1401,16 @@
   "logo_url": "",
   "ok": true,
   "website": "https://radioclasica100.com"
+ },
+ "rg-wumDfw2p": {
+  "checked": 1794576762,
+  "color": "",
+  "cover_url": "",
+  "description": "Radio Show: radio en vivo, programas, eventos y promociones.",
+  "links": {},
+  "logo_url": "https://www.radioshowbolivia.com/assets/logo.png",
+  "ok": true,
+  "website": "https://www.radioshowbolivia.com"
  },
  "rg-x3ffCyI2": {
   "checked": 1794415609,
