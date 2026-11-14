@@ -45,7 +45,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 7434,
+  "votes": 7437,
   "rank": 2
  },
  {
@@ -68,7 +68,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4903,
+  "votes": 4905,
   "rank": 3
  },
  {
@@ -91,7 +91,7 @@
   "language": "spanish",
   "codec": "AAC+",
   "bitrate": 128,
-  "votes": 4622,
+  "votes": 4623,
   "rank": 4
  },
  {
@@ -117,7 +117,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2732,
+  "votes": 2735,
   "rank": 5
  },
  {
@@ -163,7 +163,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 1936,
+  "votes": 1937,
   "rank": 7
  },
  {
@@ -281,7 +281,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 64,
-  "votes": 1229,
+  "votes": 1230,
   "rank": 12
  },
  {
@@ -363,7 +363,7 @@
   "language": "",
   "codec": "AAC",
   "bitrate": 96,
-  "votes": 938,
+  "votes": 940,
   "rank": 15
  },
  {
@@ -386,7 +386,7 @@
   "language": "quechua,spanish",
   "codec": "AAC",
   "bitrate": 64,
-  "votes": 772,
+  "votes": 773,
   "rank": 16
  },
  {
@@ -416,7 +416,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 516,
+  "votes": 517,
   "rank": 17
  },
  {
@@ -492,7 +492,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 128,
-  "votes": 369,
+  "votes": 370,
   "rank": 20
  },
  {
@@ -629,7 +629,7 @@
   "language": "spanish",
   "codec": "AAC",
   "bitrate": 128,
-  "votes": 217,
+  "votes": 218,
   "rank": 25
  },
  {
@@ -877,7 +877,7 @@
   "language": "espaňol",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 90,
+  "votes": 91,
   "rank": 35
  },
  {
@@ -1155,7 +1155,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 18,
+  "votes": 19,
   "rank": 46
  },
  {
@@ -1231,31 +1231,8 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 9,
+  "votes": 10,
   "rank": 49
- },
- {
-  "id": "20c84d77-3097-4443-bad8-d81145d89068",
-  "name": "Atlántida FM 903",
-  "city": "Cochabamba",
-  "department": "Cochabamba",
-  "genre": "2000 la otra música",
-  "frequency": "",
-  "stream_url": "https://radio.atlantidafm903.com:8020/atlantida_radio.mp3",
-  "secure": true,
-  "logo_url": "https://atlantidafm903.com/logo-atlantida.png",
-  "cover_url": "",
-  "color": "#8338ec",
-  "description": "Atlántida Radio - La Otra Música. Desde Cochabamba, Bolivia.",
-  "is_featured": false,
-  "website": "https://atlantidafm903.com/",
-  "links": {},
-  "programs": [],
-  "language": "spanish",
-  "codec": "MP3",
-  "bitrate": 320,
-  "votes": 6,
-  "rank": 50
  },
  {
   "id": "958dcc6f-9d6e-466b-b967-5a8f15beaeb0",
@@ -1281,6 +1258,29 @@
   "language": "español - latinoamerica",
   "codec": "AAC+",
   "bitrate": 128,
+  "votes": 7,
+  "rank": 50
+ },
+ {
+  "id": "20c84d77-3097-4443-bad8-d81145d89068",
+  "name": "Atlántida FM 903",
+  "city": "Cochabamba",
+  "department": "Cochabamba",
+  "genre": "2000 la otra música",
+  "frequency": "",
+  "stream_url": "https://radio.atlantidafm903.com:8020/atlantida_radio.mp3",
+  "secure": true,
+  "logo_url": "https://atlantidafm903.com/logo-atlantida.png",
+  "cover_url": "",
+  "color": "#8338ec",
+  "description": "Atlántida Radio - La Otra Música. Desde Cochabamba, Bolivia.",
+  "is_featured": false,
+  "website": "https://atlantidafm903.com/",
+  "links": {},
+  "programs": [],
+  "language": "spanish",
+  "codec": "MP3",
+  "bitrate": 320,
   "votes": 6,
   "rank": 51
  },
@@ -1333,29 +1333,6 @@
   "rank": 53
  },
  {
-  "id": "c7a0ea30-245c-4369-9f40-ece49d0fd245",
-  "name": "Radio Mega Rurrenabaque",
-  "city": "Trinidad",
-  "department": "Beni",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "https://live.turadiotv.com/8030/stream",
-  "secure": true,
-  "logo_url": "https://cp.rtvenvivo.com/panelradiotv/server/public/images/1729217634fondo.png",
-  "cover_url": "",
-  "color": "#e63946",
-  "description": "",
-  "is_featured": false,
-  "website": "https://radiomegatv.com/",
-  "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "MP3",
-  "bitrate": 112,
-  "votes": 2,
-  "rank": 54
- },
- {
   "id": "f4fe76fa-2470-4fe6-a116-385623b576a3",
   "name": "Radio Oueblo",
   "city": "La Paz",
@@ -1378,54 +1355,31 @@
   "language": "español - latinoamerica",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2,
-  "rank": 55
+  "votes": 3,
+  "rank": 54
  },
  {
-  "id": "2140295f-aa03-482f-8804-3148c890f746",
-  "name": "Radio Sol Poder de Dios",
-  "city": "La Paz",
-  "department": "La Paz",
+  "id": "c7a0ea30-245c-4369-9f40-ece49d0fd245",
+  "name": "Radio Mega Rurrenabaque",
+  "city": "Trinidad",
+  "department": "Beni",
   "genre": "Variada",
   "frequency": "",
-  "stream_url": "https://radiosol.poderdedios.net/listen/lapaz/live",
+  "stream_url": "https://live.turadiotv.com/8030/stream",
   "secure": true,
-  "logo_url": "https://radiosol.poderdedios.net/static/uploads/browser_icon/180.1733855240.png",
-  "cover_url": "https://radiosol.poderdedios.net/api/nowplaying/lapaz/art/1794413503.jpg",
-  "color": "#2196f3",
+  "logo_url": "https://cp.rtvenvivo.com/panelradiotv/server/public/images/1729217634fondo.png",
+  "cover_url": "",
+  "color": "#e63946",
   "description": "",
   "is_featured": false,
-  "website": "https://radiosol.poderdedios.net/public/lapaz",
+  "website": "https://radiomegatv.com/",
   "links": {},
   "programs": [],
   "language": "",
-  "codec": "AAC",
-  "bitrate": 96,
+  "codec": "MP3",
+  "bitrate": 112,
   "votes": 2,
-  "rank": 56
- },
- {
-  "id": "5447f604-82e3-45d5-ba15-bc81b5e3ef17",
-  "name": "Radio El Sonido de la Vida",
-  "city": "La Paz",
-  "department": "La Paz",
-  "genre": "Cristiana",
-  "frequency": "",
-  "stream_url": "https://cast6.my-control-panel.com/proxy/elsonido/stream/1/",
-  "secure": true,
-  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpF284DRj_3MW2y1t_c9Rl5lhL4h-5NCUIGCjdG1h4EXA0JO4K4zx9n-Zo&s=10",
-  "cover_url": "",
-  "color": "#d63384",
-  "description": "",
-  "is_featured": false,
-  "website": "https://www.sccbolivia.com/",
-  "links": {},
-  "programs": [],
-  "language": "spanish",
-  "codec": "AAC+",
-  "bitrate": 48,
-  "votes": 1,
-  "rank": 57
+  "rank": 55
  },
  {
   "id": "0c5a0dac-8c1f-4986-8057-3c09d048fd1d",
@@ -1451,6 +1405,52 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
+  "votes": 2,
+  "rank": 56
+ },
+ {
+  "id": "2140295f-aa03-482f-8804-3148c890f746",
+  "name": "Radio Sol Poder de Dios",
+  "city": "La Paz",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "https://radiosol.poderdedios.net/listen/lapaz/live",
+  "secure": true,
+  "logo_url": "https://radiosol.poderdedios.net/static/uploads/browser_icon/180.1733855240.png",
+  "cover_url": "https://radiosol.poderdedios.net/api/nowplaying/lapaz/art/1794413503.jpg",
+  "color": "#2196f3",
+  "description": "",
+  "is_featured": false,
+  "website": "https://radiosol.poderdedios.net/public/lapaz",
+  "links": {},
+  "programs": [],
+  "language": "",
+  "codec": "AAC",
+  "bitrate": 96,
+  "votes": 2,
+  "rank": 57
+ },
+ {
+  "id": "5447f604-82e3-45d5-ba15-bc81b5e3ef17",
+  "name": "Radio El Sonido de la Vida",
+  "city": "La Paz",
+  "department": "La Paz",
+  "genre": "Cristiana",
+  "frequency": "",
+  "stream_url": "https://cast6.my-control-panel.com/proxy/elsonido/stream/1/",
+  "secure": true,
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpF284DRj_3MW2y1t_c9Rl5lhL4h-5NCUIGCjdG1h4EXA0JO4K4zx9n-Zo&s=10",
+  "cover_url": "",
+  "color": "#d63384",
+  "description": "",
+  "is_featured": false,
+  "website": "https://www.sccbolivia.com/",
+  "links": {},
+  "programs": [],
+  "language": "spanish",
+  "codec": "AAC+",
+  "bitrate": 48,
   "votes": 1,
   "rank": 58
  },
@@ -2555,9 +2555,9 @@
   "website": "https://radiofides.com/",
   "links": {
    "facebook": "https://www.facebook.com/RadioFidesBolivia",
-   "twitter": "https://twitter.com/GrupoFides",
    "instagram": "https://www.instagram.com/radiofidesbolivia",
    "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
+   "twitter": "https://twitter.com/GrupoFides",
    "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
   },
   "programs": [],
@@ -2593,29 +2593,6 @@
   "rank": 104
  },
  {
-  "id": "rg-eLOFCHA1",
-  "name": "Radio Guadalquivir",
-  "city": "Tarija",
-  "department": "Tarija",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "https://web2.centaury.cl:19995/stream",
-  "secure": true,
-  "logo_url": "",
-  "cover_url": "",
-  "color": "#ef476f",
-  "description": "",
-  "is_featured": false,
-  "website": "http://radioguadalquivir.com.bo/en-vivo/",
-  "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 105
- },
- {
   "id": "rg-LBfuSOOq",
   "name": "Radio Guadalupe FM 103.1",
   "city": "Llallagua",
@@ -2636,7 +2613,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 106
+  "rank": 105
  },
  {
   "id": "rg-gfWgP--x",
@@ -2661,34 +2638,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 107
- },
- {
-  "id": "rg-19j7szQa",
-  "name": "Radio Integracion AM 640",
-  "city": "El Alto",
-  "department": "La Paz",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "http://stream.nepsum.com:9000/radiointegracion.mp3",
-  "secure": false,
-  "logo_url": "",
-  "cover_url": "",
-  "color": "#fb5607",
-  "description": "",
-  "is_featured": false,
-  "website": "https://www.radiointegracion.com",
-  "links": {
-   "facebook": "https://www.facebook.com/Radio-Integraci%C3%B3n-640-AM-524275041268579",
-   "twitter": "https://twitter.com/integracion640",
-   "youtube": "https://www.youtube.com/channel/UCTFFjnbcYyU0trRtDB7KBag"
-  },
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 108
+  "rank": 106
  },
  {
   "id": "rg-zUVVsrF3",
@@ -2711,7 +2661,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 109
+  "rank": 107
  },
  {
   "id": "rg-2TggHcdB",
@@ -2734,7 +2684,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 110
+  "rank": 108
  },
  {
   "id": "rg-ENSKmxJr",
@@ -2759,7 +2709,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 111
+  "rank": 109
  },
  {
   "id": "rg-f-ZFTFhW",
@@ -2786,7 +2736,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 112
+  "rank": 110
  },
  {
   "id": "rg-UPDcqbfN",
@@ -2812,7 +2762,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 113
+  "rank": 111
  },
  {
   "id": "rg-UvMr63ab",
@@ -2839,7 +2789,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 114
+  "rank": 112
  },
  {
   "id": "rg-4-iYUuET",
@@ -2866,7 +2816,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 115
+  "rank": 113
  },
  {
   "id": "rg-ew7wWBdd",
@@ -2893,7 +2843,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 116
+  "rank": 114
  },
  {
   "id": "rg-UjdPar2V",
@@ -2912,16 +2862,16 @@
   "website": "https://ondatarijaradio.com/",
   "links": {
    "facebook": "https://www.facebook.com/AncoraThemes/",
+   "instagram": "https://www.instagram.com/ancora_themes/",
    "twitter": "https://twitter.com/themes_ancora",
-   "youtube": "https://www.youtube.com/channel/UCdIjRh7-lPVHqTTKpaf8PLA",
-   "instagram": "https://www.instagram.com/ancora_themes/"
+   "youtube": "https://www.youtube.com/channel/UCdIjRh7-lPVHqTTKpaf8PLA"
   },
   "programs": [],
   "language": "",
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 117
+  "rank": 115
  },
  {
   "id": "rg-NUFBKNx0",
@@ -2947,7 +2897,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 118
+  "rank": 116
  },
  {
   "id": "rg-SCJ631ll",
@@ -2970,7 +2920,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 119
+  "rank": 117
  },
  {
   "id": "rg-0aEyUiKp",
@@ -2996,7 +2946,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 120
+  "rank": 118
  },
  {
   "id": "rg-Mjcxav5K",
@@ -3025,7 +2975,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 121
+  "rank": 119
  },
  {
   "id": "rg-M10tiQe3",
@@ -3048,7 +2998,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 122
+  "rank": 120
  },
  {
   "id": "rg-wumDfw2p",
@@ -3071,7 +3021,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 123
+  "rank": 121
  },
  {
   "id": "rg-I89GGWEX",
@@ -3094,7 +3044,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 124
+  "rank": 122
  },
  {
   "id": "rg-0bX-gJ61",
@@ -3117,7 +3067,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 125
+  "rank": 123
  },
  {
   "id": "rg-UWTtw0W5",
@@ -3144,7 +3094,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 126
+  "rank": 124
  },
  {
   "id": "rg-dDedyPE0",
@@ -3173,7 +3123,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 127
+  "rank": 125
  },
  {
   "id": "rg-buCRjEcK",
@@ -3200,7 +3150,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 128
+  "rank": 126
  },
  {
   "id": "rg-gKOm0BRp",
@@ -3225,7 +3175,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 129
+  "rank": 127
  },
  {
   "id": "rg-JvwmsjsC",
@@ -3248,7 +3198,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 130
+  "rank": 128
  },
  {
   "id": "rg-mNsHi7dI",
@@ -3271,7 +3221,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 131
+  "rank": 129
  },
  {
   "id": "rg-pk29fLnA",
@@ -3300,7 +3250,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 132
+  "rank": 130
  },
  {
   "id": "rg-tpsaiXUv",
@@ -3327,7 +3277,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 133
+  "rank": 131
  },
  {
   "id": "rg-NKH5TRjS",
@@ -3352,7 +3302,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 134
+  "rank": 132
  },
  {
   "id": "rg-p2OIroTw",
@@ -3375,7 +3325,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 135
+  "rank": 133
  },
  {
   "id": "rg-mTvfeeYk",
@@ -3405,6 +3355,6 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 136
+  "rank": 134
  }
 ]
