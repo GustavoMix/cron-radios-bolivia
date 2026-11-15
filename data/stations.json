@@ -22,7 +22,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 192,
-  "votes": 13359,
+  "votes": 13361,
   "rank": 1
  },
  {
@@ -45,7 +45,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 7437,
+  "votes": 7439,
   "rank": 2
  },
  {
@@ -68,7 +68,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4905,
+  "votes": 4906,
   "rank": 3
  },
  {
@@ -117,7 +117,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2735,
+  "votes": 2737,
   "rank": 5
  },
  {
@@ -464,7 +464,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 459,
+  "votes": 460,
   "rank": 19
  },
  {
@@ -519,35 +519,8 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 319,
+  "votes": 320,
   "rank": 21
- },
- {
-  "id": "fb939ceb-5117-4af5-b6c5-ebc188bd809e",
-  "name": "Classica FM",
-  "city": "Santa Cruz de la Sierra",
-  "department": "Santa Cruz",
-  "genre": "Classics",
-  "frequency": "106.9 FM",
-  "stream_url": "http://classicafm.scbbs.net:8000/;",
-  "secure": false,
-  "logo_url": "https://www.classicafm.com/assets/images/favicon.png",
-  "cover_url": "",
-  "color": "#f4a300",
-  "description": "Radio Clássica FM 106.9 - Donde viven los famosos. Transmisión en vivo desde Santa Cruz de la Sierra, Bolivia. Los mejores éxitos del rock y pop de los 70, 80 y 90.",
-  "is_featured": false,
-  "website": "https://www.classicafm.com/",
-  "links": {
-   "facebook": "https://www.facebook.com/Classica106.9",
-   "instagram": "https://www.instagram.com/classica106.9",
-   "twitter": "https://twitter.com/RadioClassicaFM"
-  },
-  "programs": [],
-  "language": "español internacional",
-  "codec": "AAC+",
-  "bitrate": 96,
-  "votes": 293,
-  "rank": 22
  },
  {
   "id": "f0743e1e-4ad8-4a5c-b09c-503829e333a1",
@@ -575,6 +548,33 @@
   "language": "english,spanish",
   "codec": "MP3",
   "bitrate": 128,
+  "votes": 294,
+  "rank": 22
+ },
+ {
+  "id": "fb939ceb-5117-4af5-b6c5-ebc188bd809e",
+  "name": "Classica FM",
+  "city": "Santa Cruz de la Sierra",
+  "department": "Santa Cruz",
+  "genre": "Classics",
+  "frequency": "106.9 FM",
+  "stream_url": "http://classicafm.scbbs.net:8000/;",
+  "secure": false,
+  "logo_url": "https://www.classicafm.com/assets/images/favicon.png",
+  "cover_url": "",
+  "color": "#f4a300",
+  "description": "Radio Clássica FM 106.9 - Donde viven los famosos. Transmisión en vivo desde Santa Cruz de la Sierra, Bolivia. Los mejores éxitos del rock y pop de los 70, 80 y 90.",
+  "is_featured": false,
+  "website": "https://www.classicafm.com/",
+  "links": {
+   "facebook": "https://www.facebook.com/Classica106.9",
+   "instagram": "https://www.instagram.com/classica106.9",
+   "twitter": "https://twitter.com/RadioClassicaFM"
+  },
+  "programs": [],
+  "language": "español internacional",
+  "codec": "AAC+",
+  "bitrate": 96,
   "votes": 293,
   "rank": 23
  },
@@ -1155,7 +1155,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 19,
+  "votes": 20,
   "rank": 46
  },
  {
@@ -2439,32 +2439,6 @@
   "rank": 98
  },
  {
-  "id": "rg-zABCk1nd",
-  "name": "Radio Delta Bolivia",
-  "city": "El Alto",
-  "department": "La Paz",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "https://st.deltaboliviainstitucion.org:8005/stream",
-  "secure": true,
-  "logo_url": "https://deltaboliviainstitucion.org/wp-content/uploads/2024/06/cropped-LOGO-DELTA-BOLVIA-180x180.jpg",
-  "cover_url": "",
-  "color": "#118ab2",
-  "description": "",
-  "is_featured": false,
-  "website": "https://deltaboliviainstitucion.org",
-  "links": {
-   "facebook": "https://www.facebook.com/centrodepreparaciondeltabolivia",
-   "youtube": "https://www.youtube.com/channel/UC6YXA70lZD7AsMC1NkGsSsg"
-  },
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 99
- },
- {
   "id": "rg-GcUE049D",
   "name": "Radio Disney 102.7 FM",
   "city": "Cochabamba",
@@ -2485,7 +2459,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 100
+  "rank": 99
  },
  {
   "id": "rg-GpyRxhi9",
@@ -2513,7 +2487,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 101
+  "rank": 100
  },
  {
   "id": "rg-x3ffCyI2",
@@ -2536,7 +2510,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 102
+  "rank": 101
  },
  {
   "id": "rg-rM06pIMf",
@@ -2565,7 +2539,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 103
+  "rank": 102
  },
  {
   "id": "rg-fXrYn4KQ",
@@ -2590,7 +2564,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 104
+  "rank": 103
  },
  {
   "id": "rg-LBfuSOOq",
@@ -2613,7 +2587,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 105
+  "rank": 104
  },
  {
   "id": "rg-gfWgP--x",
@@ -2638,7 +2612,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 106
+  "rank": 105
  },
  {
   "id": "rg-zUVVsrF3",
@@ -2661,7 +2635,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 107
+  "rank": 106
  },
  {
   "id": "rg-2TggHcdB",
@@ -2684,7 +2658,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 108
+  "rank": 107
  },
  {
   "id": "rg-ENSKmxJr",
@@ -2704,6 +2678,29 @@
   "links": {
    "facebook": "https://es-la.facebook.com/RadioLetaniasViacha/"
   },
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 108
+ },
+ {
+  "id": "rg-T5ZYOo18",
+  "name": "Radio Mediterraneo Oruro",
+  "city": "Oruro",
+  "department": "Oruro",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "http://5.135.183.124:8165/stream",
+  "secure": false,
+  "logo_url": "",
+  "cover_url": "",
+  "color": "#3a86ff",
+  "description": "",
+  "is_featured": false,
+  "website": "http://www.mediterraneofm.com/",
+  "links": {},
   "programs": [],
   "language": "",
   "codec": "",
