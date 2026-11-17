@@ -22,7 +22,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 192,
-  "votes": 13365,
+  "votes": 13366,
   "rank": 1
  },
  {
@@ -45,7 +45,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 7439,
+  "votes": 7440,
   "rank": 2
  },
  {
@@ -68,7 +68,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4910,
+  "votes": 4916,
   "rank": 3
  },
  {
@@ -117,7 +117,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2740,
+  "votes": 2743,
   "rank": 5
  },
  {
@@ -140,7 +140,7 @@
   "language": "spanish",
   "codec": "AAC+",
   "bitrate": 36,
-  "votes": 2481,
+  "votes": 2483,
   "rank": 6
  },
  {
@@ -279,7 +279,7 @@
   },
   "programs": [],
   "language": "",
-  "codec": "MP3",
+  "codec": "AAC+",
   "bitrate": 64,
   "votes": 1230,
   "rank": 12
@@ -416,7 +416,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 519,
+  "votes": 520,
   "rank": 17
  },
  {
@@ -492,7 +492,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 128,
-  "votes": 370,
+  "votes": 371,
   "rank": 20
  },
  {
@@ -816,7 +816,7 @@
   "department": "La Paz",
   "genre": "Variada",
   "frequency": "",
-  "stream_url": "https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImYwd2hpMWt1U19lUDFhS3pGd0pIdWciLCJpYXQiOjE3OTQ0NTM4OTYsImV4cCI6MTc5NDQ1Mzk1Nn0.fWd_P62kPRUbbzIen3BHyD5I6uo8KtnGz0EA1f4coPs",
+  "stream_url": "https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjAyTVdUUDQ5U1JxYlkzVFAwUWlUSHciLCJpYXQiOjE3OTQ4ODYxNTUsImV4cCI6MTc5NDg4NjIxNX0.ndJCX7FrDVX0KjD1Rg8lWgtcpjRIlP6isdERxUlcz0w",
   "secure": true,
   "logo_url": "https://www.radioconstelacionbolivia.com/pwa/icons/apple-touch-icon.png",
   "cover_url": "",
@@ -1286,7 +1286,7 @@
  },
  {
   "id": "f4fe76fa-2470-4fe6-a116-385623b576a3",
-  "name": "Radio Oueblo",
+  "name": "Radio Pueblo",
   "city": "La Paz",
   "department": "La Paz",
   "genre": "Variada",
@@ -1304,10 +1304,10 @@
    "twitter": "https://twitter.com/rtvpueblo1"
   },
   "programs": [],
-  "language": "español - latinoamerica",
+  "language": "español - latinoamerica,spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4,
+  "votes": 5,
   "rank": 52
  },
  {
@@ -1332,7 +1332,7 @@
   "language": "spanish",
   "codec": "AAC",
   "bitrate": 128,
-  "votes": 3,
+  "votes": 4,
   "rank": 53
  },
  {
@@ -1355,8 +1355,31 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 192,
-  "votes": 3,
+  "votes": 4,
   "rank": 54
+ },
+ {
+  "id": "2140295f-aa03-482f-8804-3148c890f746",
+  "name": "Radio Sol Poder de Dios",
+  "city": "La Paz",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "https://radiosol.poderdedios.net/listen/lapaz/live",
+  "secure": true,
+  "logo_url": "https://radiosol.poderdedios.net/static/uploads/browser_icon/180.1733855240.png",
+  "cover_url": "https://radiosol.poderdedios.net/api/nowplaying/lapaz/art/1794413503.jpg",
+  "color": "#2196f3",
+  "description": "",
+  "is_featured": false,
+  "website": "https://radiosol.poderdedios.net/public/lapaz",
+  "links": {},
+  "programs": [],
+  "language": "",
+  "codec": "AAC",
+  "bitrate": 96,
+  "votes": 3,
+  "rank": 55
  },
  {
   "id": "c7a0ea30-245c-4369-9f40-ece49d0fd245",
@@ -1379,57 +1402,7 @@
   "codec": "MP3",
   "bitrate": 112,
   "votes": 2,
-  "rank": 55
- },
- {
-  "id": "0c5a0dac-8c1f-4986-8057-3c09d048fd1d",
-  "name": "Radio Pueblo Bolivia",
-  "city": "La Paz",
-  "department": "La Paz",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "https://stream.zeno.fm/uhw8478m208uv",
-  "secure": true,
-  "logo_url": "",
-  "cover_url": "",
-  "color": "#2a9d8f",
-  "description": "YOUR DESCRIPTION HERE",
-  "is_featured": false,
-  "website": "https://radiopueblodigital.blogspot.com/",
-  "links": {
-   "facebook": "https://www.facebook.com/radiopueblobolivia/",
-   "tiktok": "https://www.tiktok.com/@elreportero",
-   "youtube": "https://www.youtube.com/@radiopueblobolivia/streams/"
-  },
-  "programs": [],
-  "language": "",
-  "codec": "MP3",
-  "bitrate": 128,
-  "votes": 2,
   "rank": 56
- },
- {
-  "id": "2140295f-aa03-482f-8804-3148c890f746",
-  "name": "Radio Sol Poder de Dios",
-  "city": "La Paz",
-  "department": "La Paz",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "https://radiosol.poderdedios.net/listen/lapaz/live",
-  "secure": true,
-  "logo_url": "https://radiosol.poderdedios.net/static/uploads/browser_icon/180.1733855240.png",
-  "cover_url": "https://radiosol.poderdedios.net/api/nowplaying/lapaz/art/1794413503.jpg",
-  "color": "#2196f3",
-  "description": "",
-  "is_featured": false,
-  "website": "https://radiosol.poderdedios.net/public/lapaz",
-  "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "AAC",
-  "bitrate": 96,
-  "votes": 2,
-  "rank": 57
  },
  {
   "id": "5447f604-82e3-45d5-ba15-bc81b5e3ef17",
@@ -1452,7 +1425,7 @@
   "codec": "AAC+",
   "bitrate": 48,
   "votes": 1,
-  "rank": 58
+  "rank": 57
  },
  {
   "id": "ca8f85c2-464c-411a-a8b1-8507da3f6558",
@@ -1481,7 +1454,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 1,
-  "rank": 59
+  "rank": 58
  },
  {
   "id": "dc47a868-4b77-4045-99b1-74d0424df7f0",
@@ -1507,32 +1480,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 1,
-  "rank": 60
- },
- {
-  "id": "8c6d6806-cfdb-465e-8848-8fb907625b3a",
-  "name": "RQP Cochabamba 104.5",
-  "city": "Cochabamba",
-  "department": "Cochabamba",
-  "genre": "Cochabamba",
-  "frequency": "104.5 FM",
-  "stream_url": "https://d117va7eyoaef5.cloudfront.net/2/index.m3u8",
-  "secure": true,
-  "logo_url": "https://alba-bo-rqp.cdn.mediatiquepress.com/wp-content/uploads/2022/03/cropped-logo-rqp-180x180.png",
-  "cover_url": "",
-  "color": "#118ab2",
-  "description": "",
-  "is_featured": false,
-  "website": "https://www.rqp.com.bo/",
-  "links": {
-   "whatsapp": "https://api.whatsapp.com/send?phone=59174162147&text=Hola%20RQP!"
-  },
-  "programs": [],
-  "language": "#spanish",
-  "codec": "UNKNOWN",
-  "bitrate": 0,
-  "votes": 1,
-  "rank": 61
+  "rank": 59
  },
  {
   "id": "3d9747b6-16a4-4f46-bf12-eaa7928a7db3",
@@ -1553,9 +1501,9 @@
   "programs": [],
   "language": "",
   "codec": "AAC",
-  "bitrate": 2392,
+  "bitrate": 2298,
   "votes": 1,
-  "rank": 62
+  "rank": 60
  },
  {
   "id": "35e01b19-6431-45f5-81be-9e3b137d18d9",
@@ -1578,7 +1526,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 1,
-  "rank": 63
+  "rank": 61
  },
  {
   "id": "rg-zBGCTZb6",
@@ -1601,7 +1549,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 64
+  "rank": 62
  },
  {
   "id": "rg-5OYFv9iK",
@@ -1629,7 +1577,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 65
+  "rank": 63
  },
  {
   "id": "rg-H6SizYuB",
@@ -1652,7 +1600,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 66
+  "rank": 64
  },
  {
   "id": "rg-8doiMc0X",
@@ -1677,7 +1625,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 67
+  "rank": 65
  },
  {
   "id": "rg-lJTZeyiD",
@@ -1700,7 +1648,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 68
+  "rank": 66
  },
  {
   "id": "rg-4j0VOJK6",
@@ -1723,7 +1671,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 69
+  "rank": 67
  },
  {
   "id": "rg-0D9tQQZC",
@@ -1746,7 +1694,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 70
+  "rank": 68
  },
  {
   "id": "rg-PHxc2tEj",
@@ -1773,7 +1721,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 71
+  "rank": 69
  },
  {
   "id": "rg-FkDKi4mM",
@@ -1798,7 +1746,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 72
+  "rank": 70
  },
  {
   "id": "rg-tRiEnCzO",
@@ -1825,7 +1773,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 73
+  "rank": 71
  },
  {
   "id": "rg-S2iaVTE2",
@@ -1854,7 +1802,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 74
+  "rank": 72
  },
  {
   "id": "rg-FxQsCCcJ",
@@ -1877,7 +1825,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 75
+  "rank": 73
  },
  {
   "id": "rg-gpj57rZK",
@@ -1900,7 +1848,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 76
+  "rank": 74
  },
  {
   "id": "rg-SJIkIepd",
@@ -1923,7 +1871,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 77
+  "rank": 75
  },
  {
   "id": "rg-hqmodV7S",
@@ -1949,7 +1897,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 78
+  "rank": 76
  },
  {
   "id": "rg-JxpbtXC8",
@@ -1974,7 +1922,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 79
+  "rank": 77
  },
  {
   "id": "rg-e0blGU5L",
@@ -1997,7 +1945,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 80
+  "rank": 78
  },
  {
   "id": "rg-gNTIsMQV",
@@ -2020,7 +1968,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 81
+  "rank": 79
  },
  {
   "id": "rg-JDD4JiK2",
@@ -2043,7 +1991,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 82
+  "rank": 80
  },
  {
   "id": "rg-QGmFWyrj",
@@ -2071,7 +2019,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 83
+  "rank": 81
  },
  {
   "id": "rg-yKNCVhBN",
@@ -2094,7 +2042,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 84
+  "rank": 82
  },
  {
   "id": "rg-YfFcwOfd",
@@ -2117,7 +2065,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 85
+  "rank": 83
  },
  {
   "id": "rg-Uvz0Cr_q",
@@ -2140,7 +2088,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 86
+  "rank": 84
  },
  {
   "id": "rg-KDOGKaWO",
@@ -2163,7 +2111,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 87
+  "rank": 85
  },
  {
   "id": "rg-R9B1S85q",
@@ -2192,7 +2140,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 88
+  "rank": 86
  },
  {
   "id": "rg-JjdWc77c",
@@ -2215,7 +2163,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 89
+  "rank": 87
  },
  {
   "id": "rg-k1gTOIPC",
@@ -2238,7 +2186,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 90
+  "rank": 88
  },
  {
   "id": "rg-glXH1Kya",
@@ -2261,7 +2209,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 91
+  "rank": 89
  },
  {
   "id": "rg-FUK01Jer",
@@ -2284,7 +2232,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 92
+  "rank": 90
  },
  {
   "id": "rg-5lrF1tlK",
@@ -2309,7 +2257,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 93
+  "rank": 91
  },
  {
   "id": "rg-91EvcAwS",
@@ -2338,7 +2286,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 94
+  "rank": 92
  },
  {
   "id": "rg-kK_RMFBs",
@@ -2361,7 +2309,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 95
+  "rank": 93
  },
  {
   "id": "rg-FxfZVibj",
@@ -2384,7 +2332,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 96
+  "rank": 94
  },
  {
   "id": "rg-ucWQXUyH",
@@ -2407,7 +2355,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 97
+  "rank": 95
  },
  {
   "id": "rg-3GSJW7Gh",
@@ -2430,7 +2378,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 98
+  "rank": 96
  },
  {
   "id": "rg-iRPMuqCi",
@@ -2459,7 +2407,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 99
+  "rank": 97
  },
  {
   "id": "rg-GcUE049D",
@@ -2482,7 +2430,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 100
+  "rank": 98
  },
  {
   "id": "rg-GpyRxhi9",
@@ -2510,7 +2458,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 101
+  "rank": 99
  },
  {
   "id": "rg-x3ffCyI2",
@@ -2533,7 +2481,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 102
+  "rank": 100
  },
  {
   "id": "rg-rM06pIMf",
@@ -2562,7 +2510,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 103
+  "rank": 101
  },
  {
   "id": "rg-fXrYn4KQ",
@@ -2587,7 +2535,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 104
+  "rank": 102
  },
  {
   "id": "rg-LBfuSOOq",
@@ -2610,7 +2558,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 105
+  "rank": 103
  },
  {
   "id": "rg-gfWgP--x",
@@ -2630,6 +2578,56 @@
   "links": {
    "facebook": "https://www.facebook.com/RadioImpactoBolivia"
   },
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 104
+ },
+ {
+  "id": "4e818ca1-8d00-47ae-a91f-403680272341",
+  "name": "Radio Integracion",
+  "city": "El Alto",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "https://stream.nepsum.com/radiointegracion.mp3",
+  "secure": true,
+  "logo_url": "https://radioslatinas.com/uploads/mini/200/radoxo-bo/radio-integracion.webp",
+  "cover_url": "",
+  "color": "#d63384",
+  "description": "",
+  "is_featured": false,
+  "website": "https://www.radiointegracion.com/",
+  "links": {
+   "facebook": "https://www.facebook.com/Radio-Integraci%C3%B3n-640-AM-524275041268579",
+   "twitter": "https://twitter.com/integracion640",
+   "youtube": "https://www.youtube.com/channel/UCTFFjnbcYyU0trRtDB7KBag"
+  },
+  "programs": [],
+  "language": "español mexico",
+  "codec": "MP3",
+  "bitrate": 128,
+  "votes": 0,
+  "rank": 105
+ },
+ {
+  "id": "rg-19j7szQa",
+  "name": "Radio Integracion AM 640",
+  "city": "El Alto",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "http://stream.nepsum.com:9000/radiointegracion.mp3",
+  "secure": false,
+  "logo_url": "",
+  "cover_url": "",
+  "color": "#fb5607",
+  "description": "",
+  "is_featured": false,
+  "website": "http://www.radiointegracion.com",
+  "links": {},
   "programs": [],
   "language": "",
   "codec": "",
@@ -2959,8 +2957,8 @@
   "website": "https://elpueblobolivia.blogspot.com/",
   "links": {
    "facebook": "https://www.facebook.com/templatesyard/",
-   "twitter": "https://twitter.com/LiveBlogger1",
    "instagram": "https://www.instagram.com/livebloggerofficial/",
+   "twitter": "https://twitter.com/LiveBlogger1",
    "youtube": "https://youtu.be/vt97YP72YlU"
   },
   "programs": [],

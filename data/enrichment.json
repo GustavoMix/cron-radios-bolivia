@@ -20,20 +20,6 @@
   "checked": 1794413657,
   "ok": false
  },
- "0c5a0dac-8c1f-4986-8057-3c09d048fd1d": {
-  "checked": 1794413670,
-  "color": "",
-  "cover_url": "",
-  "description": "YOUR DESCRIPTION HERE",
-  "links": {
-   "facebook": "https://www.facebook.com/radiopueblobolivia/",
-   "tiktok": "https://www.tiktok.com/@elreportero",
-   "youtube": "https://www.youtube.com/@radiopueblobolivia/streams/"
-  },
-  "logo_url": "",
-  "ok": true,
-  "website": "https://radiopueblodigital.blogspot.com/"
- },
  "0fe4e8a7-d335-4a67-a305-b6e3a2f6bd6c": {
   "checked": 1794492498,
   "color": "",
@@ -259,6 +245,20 @@
   "ok": true,
   "website": "https://radioritmobolivia.com/"
  },
+ "4e818ca1-8d00-47ae-a91f-403680272341": {
+  "checked": 1794927765,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/Radio-Integraci%C3%B3n-640-AM-524275041268579",
+   "twitter": "https://twitter.com/integracion640",
+   "youtube": "https://www.youtube.com/channel/UCTFFjnbcYyU0trRtDB7KBag"
+  },
+  "logo_url": "https://radioslatinas.com/uploads/mini/200/radoxo-bo/radio-integracion.webp",
+  "ok": true,
+  "website": "https://www.radiointegracion.com/"
+ },
  "50c86b5d-d447-436b-ab91-adbf2228bb1c": {
   "checked": 1794413666,
   "color": "",
@@ -438,18 +438,6 @@
   "logo_url": "https://i.ibb.co/TDRY9JT9/Logopueblo.png",
   "ok": true,
   "website": "https://elpueblobolivia.blogspot.com/"
- },
- "8c6d6806-cfdb-465e-8848-8fb907625b3a": {
-  "checked": 1794413671,
-  "color": "",
-  "cover_url": "",
-  "description": "",
-  "links": {
-   "whatsapp": "https://api.whatsapp.com/send?phone=59174162147&text=Hola%20RQP!"
-  },
-  "logo_url": "https://alba-bo-rqp.cdn.mediatiquepress.com/wp-content/uploads/2022/03/cropped-logo-rqp-180x180.png",
-  "ok": true,
-  "website": "https://www.rqp.com.bo/"
  },
  "8c8087b7-8df8-4930-b115-aac2ba6b3bab": {
   "checked": 1794413657,
@@ -717,6 +705,10 @@
  },
  "rg-0bX-gJ61": {
   "checked": 1794576762,
+  "ok": false
+ },
+ "rg-19j7szQa": {
+  "checked": 1794927765,
   "ok": false
  },
  "rg-2TggHcdB": {
