@@ -22,7 +22,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 192,
-  "votes": 13366,
+  "votes": 13370,
   "rank": 1
  },
  {
@@ -45,7 +45,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 7440,
+  "votes": 7444,
   "rank": 2
  },
  {
@@ -68,7 +68,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4916,
+  "votes": 4921,
   "rank": 3
  },
  {
@@ -117,7 +117,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2743,
+  "votes": 2744,
   "rank": 5
  },
  {
@@ -140,7 +140,7 @@
   "language": "spanish",
   "codec": "AAC+",
   "bitrate": 36,
-  "votes": 2483,
+  "votes": 2485,
   "rank": 6
  },
  {
@@ -232,7 +232,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 1714,
+  "votes": 1715,
   "rank": 10
  },
  {
@@ -281,7 +281,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 64,
-  "votes": 1230,
+  "votes": 1231,
   "rank": 12
  },
  {
@@ -310,7 +310,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 1057,
+  "votes": 1059,
   "rank": 13
  },
  {
@@ -363,7 +363,7 @@
   "language": "",
   "codec": "AAC",
   "bitrate": 96,
-  "votes": 944,
+  "votes": 945,
   "rank": 15
  },
  {
@@ -416,7 +416,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 520,
+  "votes": 522,
   "rank": 17
  },
  {
@@ -441,7 +441,7 @@
   "language": "quechua,spanish",
   "codec": "AAC",
   "bitrate": 48,
-  "votes": 481,
+  "votes": 482,
   "rank": 18
  },
  {
@@ -464,7 +464,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 460,
+  "votes": 462,
   "rank": 19
  },
  {
@@ -877,7 +877,7 @@
   "language": "espaňol",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 91,
+  "votes": 92,
   "rank": 35
  },
  {
@@ -1187,29 +1187,6 @@
   "rank": 47
  },
  {
-  "id": "50c86b5d-d447-436b-ab91-adbf2228bb1c",
-  "name": "radio centro cochabamba",
-  "city": "Cochabamba",
-  "department": "Cochabamba",
-  "genre": "Variada",
-  "frequency": "96.1 FM",
-  "stream_url": "https://radio.yoemito.net/listen/centrofm/stream",
-  "secure": true,
-  "logo_url": "",
-  "cover_url": "https://grupocentro.com.bo/assets/fondos/cover-min.jpg",
-  "color": "#e63946",
-  "description": "Toda la información en un solo lugar",
-  "is_featured": false,
-  "website": "https://grupocentro.com.bo/",
-  "links": {},
-  "programs": [],
-  "language": "español - latinoamerica",
-  "codec": "MP3",
-  "bitrate": 128,
-  "votes": 10,
-  "rank": 48
- },
- {
   "id": "cb1fb8a2-99eb-457a-9628-04f7cba06958",
   "name": "Radio Fides La Paz",
   "city": "La Paz",
@@ -1231,6 +1208,29 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
+  "votes": 14,
+  "rank": 48
+ },
+ {
+  "id": "50c86b5d-d447-436b-ab91-adbf2228bb1c",
+  "name": "radio centro cochabamba",
+  "city": "Cochabamba",
+  "department": "Cochabamba",
+  "genre": "Variada",
+  "frequency": "96.1 FM",
+  "stream_url": "https://radio.yoemito.net/listen/centrofm/stream",
+  "secure": true,
+  "logo_url": "",
+  "cover_url": "https://grupocentro.com.bo/assets/fondos/cover-min.jpg",
+  "color": "#e63946",
+  "description": "Toda la información en un solo lugar",
+  "is_featured": false,
+  "website": "https://grupocentro.com.bo/",
+  "links": {},
+  "programs": [],
+  "language": "español - latinoamerica",
+  "codec": "MP3",
+  "bitrate": 128,
   "votes": 10,
   "rank": 49
  },
@@ -1828,29 +1828,6 @@
   "rank": 73
  },
  {
-  "id": "rg-gpj57rZK",
-  "name": "Indoamérica La Radio 103.9 FM",
-  "city": "Potosi",
-  "department": "Potosí",
-  "genre": "Variada",
-  "frequency": "103.9 FM",
-  "stream_url": "https://live.turadiotv.com/8160/stream",
-  "secure": true,
-  "logo_url": "https://www.indoamericalaradio.com/icon-192x192.png",
-  "cover_url": "",
-  "color": "#f4a300",
-  "description": "app indoamerica",
-  "is_featured": false,
-  "website": "https://www.indoamericalaradio.com",
-  "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 74
- },
- {
   "id": "rg-SJIkIepd",
   "name": "Instrumental U",
   "city": "La Paz",
@@ -1871,7 +1848,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 75
+  "rank": 74
  },
  {
   "id": "rg-hqmodV7S",
@@ -1897,7 +1874,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 76
+  "rank": 75
  },
  {
   "id": "rg-JxpbtXC8",
@@ -1922,7 +1899,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 77
+  "rank": 76
  },
  {
   "id": "rg-e0blGU5L",
@@ -1945,7 +1922,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 78
+  "rank": 77
  },
  {
   "id": "rg-gNTIsMQV",
@@ -1968,7 +1945,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 79
+  "rank": 78
  },
  {
   "id": "rg-JDD4JiK2",
@@ -1991,7 +1968,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 80
+  "rank": 79
  },
  {
   "id": "rg-QGmFWyrj",
@@ -2019,7 +1996,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 81
+  "rank": 80
  },
  {
   "id": "rg-yKNCVhBN",
@@ -2042,7 +2019,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 82
+  "rank": 81
  },
  {
   "id": "rg-YfFcwOfd",
@@ -2065,7 +2042,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 83
+  "rank": 82
  },
  {
   "id": "rg-Uvz0Cr_q",
@@ -2088,7 +2065,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 84
+  "rank": 83
  },
  {
   "id": "rg-KDOGKaWO",
@@ -2111,7 +2088,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 85
+  "rank": 84
  },
  {
   "id": "rg-R9B1S85q",
@@ -2140,7 +2117,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 86
+  "rank": 85
  },
  {
   "id": "rg-JjdWc77c",
@@ -2163,7 +2140,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 87
+  "rank": 86
  },
  {
   "id": "rg-k1gTOIPC",
@@ -2186,7 +2163,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 88
+  "rank": 87
  },
  {
   "id": "rg-glXH1Kya",
@@ -2209,7 +2186,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 89
+  "rank": 88
  },
  {
   "id": "rg-FUK01Jer",
@@ -2227,6 +2204,33 @@
   "is_featured": false,
   "website": "https://caliente.com.bo/",
   "links": {},
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 89
+ },
+ {
+  "id": "rg-qkVOg76J",
+  "name": "Radio Camargo 100.3 FM",
+  "city": "Camargo",
+  "department": "",
+  "genre": "Variada",
+  "frequency": "100.3 FM",
+  "stream_url": "https://stm27.xcast.com.br:10490/stream",
+  "secure": true,
+  "logo_url": "",
+  "cover_url": "https://radiocamargo.com.bo/archivos/2016/03/camargo-13.jpg",
+  "color": "#d63384",
+  "description": "Radio CamargoAportando a la comunicación ,cultura , costumbres , folklore y el desarrollo de CamargoGente de la RadioMunicipio de CamargoAportando a la",
+  "is_featured": false,
+  "website": "https://radiocamargo.com.bo",
+  "links": {
+   "facebook": "https://www.facebook.com/radiocamargo.cintibolivia/",
+   "youtube": "https://www.youtube.com/user/RadioCamargo",
+   "twitter": "https://twitter.com/radiocamargobo"
+  },
   "programs": [],
   "language": "",
   "codec": "",
@@ -2410,6 +2414,32 @@
   "rank": 97
  },
  {
+  "id": "rg-zABCk1nd",
+  "name": "Radio Delta Bolivia",
+  "city": "El Alto",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "https://st.deltaboliviainstitucion.org:8005/stream",
+  "secure": true,
+  "logo_url": "https://deltaboliviainstitucion.org/wp-content/uploads/2024/06/cropped-LOGO-DELTA-BOLVIA-180x180.jpg",
+  "cover_url": "",
+  "color": "#118ab2",
+  "description": "",
+  "is_featured": false,
+  "website": "https://deltaboliviainstitucion.org",
+  "links": {
+   "facebook": "https://www.facebook.com/centrodepreparaciondeltabolivia",
+   "youtube": "https://www.youtube.com/channel/UC6YXA70lZD7AsMC1NkGsSsg"
+  },
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 98
+ },
+ {
   "id": "rg-GcUE049D",
   "name": "Radio Disney 102.7 FM",
   "city": "Cochabamba",
@@ -2430,7 +2460,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 98
+  "rank": 99
  },
  {
   "id": "rg-GpyRxhi9",
@@ -2458,7 +2488,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 99
+  "rank": 100
  },
  {
   "id": "rg-x3ffCyI2",
@@ -2476,35 +2506,6 @@
   "is_featured": false,
   "website": "https://online.radiofides.com/cochabamba.html",
   "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 100
- },
- {
-  "id": "rg-rM06pIMf",
-  "name": "Radio Fides La Paz 760 AM",
-  "city": "La Paz",
-  "department": "La Paz",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "https://usa7.fastcast4u.com/proxy/grflores?mp=/1",
-  "secure": true,
-  "logo_url": "",
-  "cover_url": "",
-  "color": "#f4a300",
-  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
-  "is_featured": false,
-  "website": "https://radiofides.com/",
-  "links": {
-   "facebook": "https://www.facebook.com/RadioFidesBolivia",
-   "instagram": "https://www.instagram.com/radiofidesbolivia",
-   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
-   "twitter": "https://twitter.com/GrupoFides",
-   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
-  },
   "programs": [],
   "language": "",
   "codec": "",

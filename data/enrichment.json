@@ -1247,16 +1247,6 @@
   "ok": true,
   "website": "https://www.radiocalienteoruro.com"
  },
- "rg-gpj57rZK": {
-  "checked": 1794838152,
-  "color": "",
-  "cover_url": "",
-  "description": "app indoamerica",
-  "links": {},
-  "logo_url": "https://www.indoamericalaradio.com/icon-192x192.png",
-  "ok": true,
-  "website": "https://www.indoamericalaradio.com"
- },
  "rg-hqmodV7S": {
   "checked": 1794415605,
   "color": "",
@@ -1351,21 +1341,19 @@
   "ok": true,
   "website": "https://xn--redchuquisaquea-crb.com"
  },
- "rg-rM06pIMf": {
-  "checked": 1794576762,
+ "rg-qkVOg76J": {
+  "checked": 1795012973,
   "color": "",
-  "cover_url": "",
-  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
+  "cover_url": "https://radiocamargo.com.bo/archivos/2016/03/camargo-13.jpg",
+  "description": "Radio CamargoAportando a la comunicación ,cultura , costumbres , folklore y el desarrollo de CamargoGente de la RadioMunicipio de CamargoAportando a la",
   "links": {
-   "facebook": "https://www.facebook.com/RadioFidesBolivia",
-   "instagram": "https://www.instagram.com/radiofidesbolivia",
-   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
-   "twitter": "https://twitter.com/GrupoFides",
-   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
+   "facebook": "https://www.facebook.com/radiocamargo.cintibolivia/",
+   "twitter": "https://twitter.com/radiocamargobo",
+   "youtube": "https://www.youtube.com/user/RadioCamargo"
   },
   "logo_url": "",
   "ok": true,
-  "website": "https://radiofides.com/"
+  "website": "https://radiocamargo.com.bo"
  },
  "rg-tRiEnCzO": {
   "checked": 1794415589,
@@ -1428,6 +1416,19 @@
   "logo_url": "https://zeno.fm/apple-touch-icon.png",
   "ok": true,
   "website": "https://zeno.fm/radio/radio-america-99-7/"
+ },
+ "rg-zABCk1nd": {
+  "checked": 1795012973,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/centrodepreparaciondeltabolivia",
+   "youtube": "https://www.youtube.com/channel/UC6YXA70lZD7AsMC1NkGsSsg"
+  },
+  "logo_url": "https://deltaboliviainstitucion.org/wp-content/uploads/2024/06/cropped-LOGO-DELTA-BOLVIA-180x180.jpg",
+  "ok": true,
+  "website": "https://deltaboliviainstitucion.org"
  },
  "rg-zBGCTZb6": {
   "checked": 1794415587,
