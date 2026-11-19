@@ -22,7 +22,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 192,
-  "votes": 13370,
+  "votes": 13375,
   "rank": 1
  },
  {
@@ -45,7 +45,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 7444,
+  "votes": 7451,
   "rank": 2
  },
  {
@@ -68,7 +68,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4921,
+  "votes": 4928,
   "rank": 3
  },
  {
@@ -117,7 +117,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2744,
+  "votes": 2752,
   "rank": 5
  },
  {
@@ -140,7 +140,7 @@
   "language": "spanish",
   "codec": "AAC+",
   "bitrate": 36,
-  "votes": 2485,
+  "votes": 2488,
   "rank": 6
  },
  {
@@ -163,7 +163,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 1938,
+  "votes": 1939,
   "rank": 7
  },
  {
@@ -209,7 +209,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 64,
-  "votes": 1727,
+  "votes": 1730,
   "rank": 9
  },
  {
@@ -255,7 +255,7 @@
   "language": "castilian,spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 1488,
+  "votes": 1489,
   "rank": 11
  },
  {
@@ -281,7 +281,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 64,
-  "votes": 1231,
+  "votes": 1232,
   "rank": 12
  },
  {
@@ -363,7 +363,7 @@
   "language": "",
   "codec": "AAC",
   "bitrate": 96,
-  "votes": 945,
+  "votes": 948,
   "rank": 15
  },
  {
@@ -386,7 +386,7 @@
   "language": "quechua,spanish",
   "codec": "AAC",
   "bitrate": 64,
-  "votes": 773,
+  "votes": 774,
   "rank": 16
  },
  {
@@ -416,7 +416,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 522,
+  "votes": 523,
   "rank": 17
  },
  {
@@ -644,10 +644,16 @@
   "logo_url": "https://graph.facebook.com/eslatinoradio/picture?width=200&height=200",
   "cover_url": "",
   "color": "#118ab2",
-  "description": "",
+  "description": "esLatino Radio la estación que Vive En Ti, 24/7 de los éxitos del Mundo Latino.",
   "is_featured": false,
   "website": "https://eslatinoradio.com/",
-  "links": {},
+  "links": {
+   "youtube": "https://www.youtube.com/@esLatinoRadio",
+   "twitter": "https://x.com/esLatinoRadio",
+   "tiktok": "https://www.tiktok.com/@eslatinoradio",
+   "instagram": "https://www.instagram.com/eslatinoradio/",
+   "facebook": "https://www.facebook.com/eslatinoradio"
+  },
   "programs": [],
   "language": "spanish",
   "codec": "AAC+",
@@ -733,7 +739,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 128,
-  "votes": 150,
+  "votes": 151,
   "rank": 29
  },
  {
@@ -1258,7 +1264,7 @@
   "language": "español - latinoamerica",
   "codec": "AAC+",
   "bitrate": 128,
-  "votes": 7,
+  "votes": 8,
   "rank": 50
  },
  {
@@ -1378,7 +1384,7 @@
   "language": "",
   "codec": "AAC",
   "bitrate": 96,
-  "votes": 3,
+  "votes": 4,
   "rank": 55
  },
  {
@@ -1428,6 +1434,34 @@
   "rank": 57
  },
  {
+  "id": "8b413e6a-64b9-46df-9361-49d32188d27b",
+  "name": "Radio Pueblo 1280 AM",
+  "city": "El Alto",
+  "department": "La Paz",
+  "genre": "Folk",
+  "frequency": "",
+  "stream_url": "https://stream.zeno.fm/pixytbpabcsuv",
+  "secure": true,
+  "logo_url": "https://i.ibb.co/TDRY9JT9/Logopueblo.png",
+  "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_niWgO66qndUVIc8HsKybNZrVaLioaM9hKCWWuYdCPDsMIRkeQKGhBnszeotGdRx9UZ3_pzq4Iw32Q92YefryrWvcnSFkgcrVHIkQR98JmsotnYxJ6a06Xcc7svzb7RvZ8Eae0nVLlqRUOOulsUrAIuqXlELLr1kfwCIk8zse6XdCssVBp6J98FTn4lR/w1200-h630-p-k-no-nu/avila24.jpg",
+  "color": "#3a86ff",
+  "description": "",
+  "is_featured": false,
+  "website": "https://elpueblobolivia.blogspot.com/",
+  "links": {
+   "facebook": "https://www.facebook.com/templatesyard/",
+   "instagram": "https://www.instagram.com/livebloggerofficial/",
+   "twitter": "https://twitter.com/LiveBlogger1",
+   "youtube": "https://youtu.be/vt97YP72YlU"
+  },
+  "programs": [],
+  "language": "español mexico",
+  "codec": "MP3",
+  "bitrate": 128,
+  "votes": 1,
+  "rank": 58
+ },
+ {
   "id": "ca8f85c2-464c-411a-a8b1-8507da3f6558",
   "name": "Radio San Gabriel AM 620",
   "city": "La Paz",
@@ -1454,7 +1488,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 1,
-  "rank": 58
+  "rank": 59
  },
  {
   "id": "dc47a868-4b77-4045-99b1-74d0424df7f0",
@@ -1480,7 +1514,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 1,
-  "rank": 59
+  "rank": 60
  },
  {
   "id": "3d9747b6-16a4-4f46-bf12-eaa7928a7db3",
@@ -1503,7 +1537,7 @@
   "codec": "AAC",
   "bitrate": 2298,
   "votes": 1,
-  "rank": 60
+  "rank": 61
  },
  {
   "id": "35e01b19-6431-45f5-81be-9e3b137d18d9",
@@ -1526,7 +1560,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 1,
-  "rank": 61
+  "rank": 62
  },
  {
   "id": "rg-zBGCTZb6",
@@ -1537,19 +1571,21 @@
   "frequency": "",
   "stream_url": "https://emiteradio.com/proxy/prensalp?mp=/stream",
   "secure": true,
-  "logo_url": "",
+  "logo_url": "https://aplp.org.bo/wp-content/uploads/2022/12/cropped-ico-180x180.jpg",
   "cover_url": "",
   "color": "#2a9d8f",
   "description": "",
   "is_featured": false,
   "website": "https://aplp.org.bo/",
-  "links": {},
+  "links": {
+   "facebook": "https://www.facebook.com/asociaciondeperiodistas.aplp"
+  },
   "programs": [],
   "language": "",
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 62
+  "rank": 63
  },
  {
   "id": "rg-5OYFv9iK",
@@ -1577,7 +1613,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 63
+  "rank": 64
  },
  {
   "id": "rg-H6SizYuB",
@@ -1600,7 +1636,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 64
+  "rank": 65
  },
  {
   "id": "rg-8doiMc0X",
@@ -1625,7 +1661,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 65
+  "rank": 66
  },
  {
   "id": "rg-lJTZeyiD",
@@ -1636,10 +1672,10 @@
   "frequency": "",
   "stream_url": "https://streaming.radiosenlinea.com.ar:10686/;",
   "secure": true,
-  "logo_url": "",
-  "cover_url": "",
+  "logo_url": "https://codigowm.com/wp-content/uploads/2025/08/cropped-w-150x150-1-180x180.png",
+  "cover_url": "https://codigowm.com/wp-content/uploads/2025/08/slide1-1068x601-1.png",
   "color": "#fb5607",
-  "description": "",
+  "description": "Explora la mejor selección de Radio en linea y disfruta de tus programas favoritos en cualquier momento.",
   "is_featured": false,
   "website": "https://codigowm.com",
   "links": {},
@@ -1648,7 +1684,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 66
+  "rank": 67
  },
  {
   "id": "rg-4j0VOJK6",
@@ -1671,7 +1707,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 67
+  "rank": 68
  },
  {
   "id": "rg-0D9tQQZC",
@@ -1694,7 +1730,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 68
+  "rank": 69
  },
  {
   "id": "rg-PHxc2tEj",
@@ -1721,7 +1757,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 69
+  "rank": 70
  },
  {
   "id": "rg-FkDKi4mM",
@@ -1746,7 +1782,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 70
+  "rank": 71
  },
  {
   "id": "rg-tRiEnCzO",
@@ -1773,7 +1809,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 71
+  "rank": 72
  },
  {
   "id": "rg-S2iaVTE2",
@@ -1802,7 +1838,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 72
+  "rank": 73
  },
  {
   "id": "rg-FxQsCCcJ",
@@ -1825,7 +1861,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 73
+  "rank": 74
  },
  {
   "id": "rg-SJIkIepd",
@@ -1848,7 +1884,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 74
+  "rank": 75
  },
  {
   "id": "rg-hqmodV7S",
@@ -1874,7 +1910,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 75
+  "rank": 76
  },
  {
   "id": "rg-JxpbtXC8",
@@ -1899,7 +1935,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 76
+  "rank": 77
  },
  {
   "id": "rg-e0blGU5L",
@@ -1922,7 +1958,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 77
+  "rank": 78
  },
  {
   "id": "rg-gNTIsMQV",
@@ -1945,7 +1981,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 78
+  "rank": 79
  },
  {
   "id": "rg-JDD4JiK2",
@@ -1968,7 +2004,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 79
+  "rank": 80
  },
  {
   "id": "rg-QGmFWyrj",
@@ -1996,7 +2032,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 80
+  "rank": 81
  },
  {
   "id": "rg-yKNCVhBN",
@@ -2019,7 +2055,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 81
+  "rank": 82
  },
  {
   "id": "rg-YfFcwOfd",
@@ -2042,7 +2078,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 82
+  "rank": 83
  },
  {
   "id": "rg-Uvz0Cr_q",
@@ -2058,14 +2094,14 @@
   "color": "#2a9d8f",
   "description": "",
   "is_featured": false,
-  "website": "http://radioatipiri.com",
+  "website": "https://radioatipiri.com",
   "links": {},
   "programs": [],
   "language": "",
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 83
+  "rank": 84
  },
  {
   "id": "rg-KDOGKaWO",
@@ -2088,7 +2124,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 84
+  "rank": 85
  },
  {
   "id": "rg-R9B1S85q",
@@ -2117,7 +2153,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 85
+  "rank": 86
  },
  {
   "id": "rg-JjdWc77c",
@@ -2140,7 +2176,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 86
+  "rank": 87
  },
  {
   "id": "rg-k1gTOIPC",
@@ -2151,19 +2187,21 @@
   "frequency": "",
   "stream_url": "https://emiteradio.com/proxy/cabina365?mp=/stream",
   "secure": true,
-  "logo_url": "",
+  "logo_url": "https://cabina365.com/wp-content/uploads/2026/09/cropped-Logo-Cabina-Redondeado-180x180.png",
   "cover_url": "",
   "color": "#118ab2",
   "description": "",
   "is_featured": false,
-  "website": "https://www.cabina365.com",
-  "links": {},
+  "website": "https://cabina365.com/",
+  "links": {
+   "facebook": "https://www.facebook.com/cabina365"
+  },
   "programs": [],
   "language": "",
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 87
+  "rank": 88
  },
  {
   "id": "rg-glXH1Kya",
@@ -2186,7 +2224,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 88
+  "rank": 89
  },
  {
   "id": "rg-FUK01Jer",
@@ -2209,7 +2247,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 89
+  "rank": 90
  },
  {
   "id": "rg-qkVOg76J",
@@ -2228,15 +2266,15 @@
   "website": "https://radiocamargo.com.bo",
   "links": {
    "facebook": "https://www.facebook.com/radiocamargo.cintibolivia/",
-   "youtube": "https://www.youtube.com/user/RadioCamargo",
-   "twitter": "https://twitter.com/radiocamargobo"
+   "twitter": "https://twitter.com/radiocamargobo",
+   "youtube": "https://www.youtube.com/user/RadioCamargo"
   },
   "programs": [],
   "language": "",
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 90
+  "rank": 91
  },
  {
   "id": "rg-5lrF1tlK",
@@ -2261,7 +2299,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 91
+  "rank": 92
  },
  {
   "id": "rg-91EvcAwS",
@@ -2290,7 +2328,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 92
+  "rank": 93
  },
  {
   "id": "rg-kK_RMFBs",
@@ -2313,7 +2351,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 93
+  "rank": 94
  },
  {
   "id": "rg-FxfZVibj",
@@ -2336,7 +2374,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 94
+  "rank": 95
  },
  {
   "id": "rg-ucWQXUyH",
@@ -2359,7 +2397,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 95
+  "rank": 96
  },
  {
   "id": "rg-3GSJW7Gh",
@@ -2382,7 +2420,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 96
+  "rank": 97
  },
  {
   "id": "rg-iRPMuqCi",
@@ -2411,7 +2449,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 97
+  "rank": 98
  },
  {
   "id": "rg-zABCk1nd",
@@ -2437,7 +2475,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 98
+  "rank": 99
  },
  {
   "id": "rg-GcUE049D",
@@ -2460,7 +2498,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 99
+  "rank": 100
  },
  {
   "id": "rg-GpyRxhi9",
@@ -2488,7 +2526,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 100
+  "rank": 101
  },
  {
   "id": "rg-x3ffCyI2",
@@ -2511,7 +2549,36 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 101
+  "rank": 102
+ },
+ {
+  "id": "rg-rM06pIMf",
+  "name": "Radio Fides La Paz 760 AM",
+  "city": "La Paz",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "https://usa7.fastcast4u.com/proxy/grflores?mp=/1",
+  "secure": true,
+  "logo_url": "",
+  "cover_url": "",
+  "color": "#f4a300",
+  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
+  "is_featured": false,
+  "website": "https://radiofides.com/",
+  "links": {
+   "facebook": "https://www.facebook.com/RadioFidesBolivia",
+   "twitter": "https://twitter.com/GrupoFides",
+   "instagram": "https://www.instagram.com/radiofidesbolivia",
+   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
+   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
+  },
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 103
  },
  {
   "id": "rg-fXrYn4KQ",
@@ -2536,7 +2603,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 102
+  "rank": 104
  },
  {
   "id": "rg-LBfuSOOq",
@@ -2559,7 +2626,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 103
+  "rank": 105
  },
  {
   "id": "rg-gfWgP--x",
@@ -2584,7 +2651,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 104
+  "rank": 106
  },
  {
   "id": "4e818ca1-8d00-47ae-a91f-403680272341",
@@ -2611,30 +2678,7 @@
   "codec": "MP3",
   "bitrate": 128,
   "votes": 0,
-  "rank": 105
- },
- {
-  "id": "rg-19j7szQa",
-  "name": "Radio Integracion AM 640",
-  "city": "El Alto",
-  "department": "La Paz",
-  "genre": "Variada",
-  "frequency": "",
-  "stream_url": "http://stream.nepsum.com:9000/radiointegracion.mp3",
-  "secure": false,
-  "logo_url": "",
-  "cover_url": "",
-  "color": "#fb5607",
-  "description": "",
-  "is_featured": false,
-  "website": "http://www.radiointegracion.com",
-  "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 106
+  "rank": 107
  },
  {
   "id": "rg-zUVVsrF3",
@@ -2657,7 +2701,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 107
+  "rank": 108
  },
  {
   "id": "rg-2TggHcdB",
@@ -2680,7 +2724,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 108
+  "rank": 109
  },
  {
   "id": "rg-ENSKmxJr",
@@ -2705,7 +2749,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 109
+  "rank": 110
  },
  {
   "id": "rg-T5ZYOo18",
@@ -2728,7 +2772,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 110
+  "rank": 111
  },
  {
   "id": "rg-f-ZFTFhW",
@@ -2755,7 +2799,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 111
+  "rank": 112
  },
  {
   "id": "rg-UPDcqbfN",
@@ -2781,7 +2825,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 112
+  "rank": 113
  },
  {
   "id": "rg-UvMr63ab",
@@ -2808,7 +2852,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 113
+  "rank": 114
  },
  {
   "id": "rg-4-iYUuET",
@@ -2835,7 +2879,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 114
+  "rank": 115
  },
  {
   "id": "rg-ew7wWBdd",
@@ -2862,7 +2906,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 115
+  "rank": 116
  },
  {
   "id": "rg-UjdPar2V",
@@ -2890,7 +2934,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 116
+  "rank": 117
  },
  {
   "id": "rg-NUFBKNx0",
@@ -2916,7 +2960,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 117
+  "rank": 118
  },
  {
   "id": "rg-SCJ631ll",
@@ -2938,34 +2982,6 @@
   "language": "",
   "codec": "",
   "bitrate": 0,
-  "votes": 0,
-  "rank": 118
- },
- {
-  "id": "8b413e6a-64b9-46df-9361-49d32188d27b",
-  "name": "Radio Pueblo 1280 AM",
-  "city": "El Alto",
-  "department": "La Paz",
-  "genre": "Folk",
-  "frequency": "",
-  "stream_url": "https://stream.zeno.fm/pixytbpabcsuv",
-  "secure": true,
-  "logo_url": "https://i.ibb.co/TDRY9JT9/Logopueblo.png",
-  "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_niWgO66qndUVIc8HsKybNZrVaLioaM9hKCWWuYdCPDsMIRkeQKGhBnszeotGdRx9UZ3_pzq4Iw32Q92YefryrWvcnSFkgcrVHIkQR98JmsotnYxJ6a06Xcc7svzb7RvZ8Eae0nVLlqRUOOulsUrAIuqXlELLr1kfwCIk8zse6XdCssVBp6J98FTn4lR/w1200-h630-p-k-no-nu/avila24.jpg",
-  "color": "#3a86ff",
-  "description": "",
-  "is_featured": false,
-  "website": "https://elpueblobolivia.blogspot.com/",
-  "links": {
-   "facebook": "https://www.facebook.com/templatesyard/",
-   "instagram": "https://www.instagram.com/livebloggerofficial/",
-   "twitter": "https://twitter.com/LiveBlogger1",
-   "youtube": "https://youtu.be/vt97YP72YlU"
-  },
-  "programs": [],
-  "language": "español mexico",
-  "codec": "MP3",
-  "bitrate": 128,
   "votes": 0,
   "rank": 119
  },

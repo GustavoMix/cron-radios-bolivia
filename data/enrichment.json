@@ -17,7 +17,7 @@
   "website": "https://www.radiosatbolivia.com/"
  },
  "0ade8f6a-7c48-4c82-8441-44297f396b9b": {
-  "checked": 1794413657,
+  "checked": 1795099815,
   "ok": false
  },
  "0fe4e8a7-d335-4a67-a305-b6e3a2f6bd6c": {
@@ -44,7 +44,7 @@
   "website": "https://www.bigradio.top/"
  },
  "1ce84a75-b227-4677-9756-5832b71ddd44": {
-  "checked": 1794413657,
+  "checked": 1795099815,
   "ok": false
  },
  "1e2dccde-5a8a-11e9-a622-52543be04c81": {
@@ -191,7 +191,7 @@
   "website": "https://radio.zetaxworld.xyz/"
  },
  "393427ab-ca2d-11e8-a54a-52543be04c81": {
-  "checked": 1794415586,
+  "checked": 1795099815,
   "ok": false
  },
  "3cfb8d49-ac94-490c-9075-84d8965b0272": {
@@ -283,7 +283,7 @@
   "website": "https://radiokollasuyo.bo/"
  },
  "5447f604-82e3-45d5-ba15-bc81b5e3ef17": {
-  "checked": 1794413670,
+  "checked": 1795099815,
   "ok": false
  },
  "5702c958-7e30-4b21-8467-2973927c4e00": {
@@ -346,8 +346,20 @@
   "website": "https://sucremantatv.com/"
  },
  "68e78c21-ad96-4fe2-a425-a81ddd551b3e": {
-  "checked": 1794413660,
-  "ok": false
+  "checked": 1795099815,
+  "color": "",
+  "cover_url": "",
+  "description": "esLatino Radio la estación que Vive En Ti, 24/7 de los éxitos del Mundo Latino.",
+  "links": {
+   "facebook": "https://www.facebook.com/eslatinoradio",
+   "instagram": "https://www.instagram.com/eslatinoradio/",
+   "tiktok": "https://www.tiktok.com/@eslatinoradio",
+   "twitter": "https://x.com/esLatinoRadio",
+   "youtube": "https://www.youtube.com/@esLatinoRadio"
+  },
+  "logo_url": "https://graph.facebook.com/eslatinoradio/picture?width=200&height=200",
+  "ok": true,
+  "website": "https://eslatinoradio.com/"
  },
  "69ac1b0a-4ff2-4866-8ede-a1259a2ef80e": {
   "checked": 1794413668,
@@ -413,15 +425,15 @@
   "website": "https://www.radios-bolivia.com/cristo-viene-la-red"
  },
  "7e3acae8-85da-4ae5-bb50-4008dc9bd8b8": {
-  "checked": 1794413661,
+  "checked": 1795099815,
   "ok": false
  },
  "8042b312-1b60-471b-bf6e-aabdbb4c2512": {
-  "checked": 1794413657,
+  "checked": 1795099815,
   "ok": false
  },
  "81d58170-2f06-47fb-be37-e6c638f09bdf": {
-  "checked": 1794413657,
+  "checked": 1795099815,
   "ok": false
  },
  "8b413e6a-64b9-46df-9361-49d32188d27b": {
@@ -474,7 +486,7 @@
   "website": "https://www.radioclasica100.com/"
  },
  "9bb0d97d-5dc8-4181-a1f0-d938f91a4e51": {
-  "checked": 1794413657,
+  "checked": 1795099815,
   "ok": false
  },
  "a6b7289f-9bcc-4767-b00e-534644099c83": {
@@ -488,8 +500,14 @@
   "website": "https://quechuafm.es.tl/"
  },
  "c7a0ea30-245c-4369-9f40-ece49d0fd245": {
-  "checked": 1794413669,
-  "ok": false
+  "checked": 1795099815,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "https://cp.rtvenvivo.com/panelradiotv/server/public/images/1729217634fondo.png",
+  "ok": true,
+  "website": "https://radiomegatv.com/"
  },
  "ca8f85c2-464c-411a-a8b1-8507da3f6558": {
   "checked": 1794492498,
@@ -555,11 +573,11 @@
   "website": "https://qhana.com.bo/"
  },
  "d72a4f57-f55b-4856-bdd1-dea4836c6e1e": {
-  "checked": 1794413662,
+  "checked": 1795099815,
   "ok": false
  },
  "d8c798a1-0462-477c-bd3a-6012352d7185": {
-  "checked": 1794413661,
+  "checked": 1795099815,
   "ok": false
  },
  "dc47a868-4b77-4045-99b1-74d0424df7f0": {
@@ -588,7 +606,7 @@
   "website": "https://www.animaxradio.com/"
  },
  "e6c16e35-2ab3-4f75-a915-f3fcabaa6f68": {
-  "checked": 1794413663,
+  "checked": 1795099815,
   "ok": false
  },
  "e7aa33da-cb20-4f69-9099-f0dd3690cec4": {
@@ -604,7 +622,7 @@
   "website": "https://www.radioconstelacionbolivia.com/"
  },
  "e8e66954-c8c6-4463-9ea2-6731839ede70": {
-  "checked": 1794413662,
+  "checked": 1795099815,
   "ok": false
  },
  "f0743e1e-4ad8-4a5c-b09c-503829e333a1": {
@@ -707,16 +725,12 @@
   "checked": 1794576762,
   "ok": false
  },
- "rg-19j7szQa": {
-  "checked": 1794927765,
-  "ok": false
- },
  "rg-2TggHcdB": {
-  "checked": 1794415591,
+  "checked": 1795099816,
   "ok": false
  },
  "rg-3GSJW7Gh": {
-  "checked": 1794415609,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-4-iYUuET": {
@@ -734,7 +748,7 @@
   "website": "https://mundial.fm/"
  },
  "rg-4j0VOJK6": {
-  "checked": 1794415608,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-5OYFv9iK": {
@@ -882,7 +896,7 @@
   "website": "https://www.audiokiss.com/"
  },
  "rg-I89GGWEX": {
-  "checked": 1794415593,
+  "checked": 1795099816,
   "ok": false
  },
  "rg-JDD4JiK2": {
@@ -896,7 +910,7 @@
   "website": "https://7voces.wixsite.com/radio-7-voces-plus"
  },
  "rg-JjdWc77c": {
-  "checked": 1794415600,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-JvwmsjsC": {
@@ -942,7 +956,7 @@
   "website": "https://www.radioguadalupellallagua.com"
  },
  "rg-M10tiQe3": {
-  "checked": 1794415597,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-Mjcxav5K": {
@@ -1058,7 +1072,7 @@
   "website": "https://www.radioplaybolivia.com/"
  },
  "rg-SJIkIepd": {
-  "checked": 1794415589,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-T5ZYOo18": {
@@ -1122,8 +1136,14 @@
   "website": "https://mundial.fm/"
  },
  "rg-Uvz0Cr_q": {
-  "checked": 1794415598,
-  "ok": false
+  "checked": 1795099816,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://radioatipiri.com"
  },
  "rg-YfFcwOfd": {
   "checked": 1794576762,
@@ -1160,7 +1180,7 @@
   "website": "https://rtmbolivia.org/"
  },
  "rg-e0blGU5L": {
-  "checked": 1794415606,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-ew7wWBdd": {
@@ -1277,8 +1297,16 @@
   "website": "https://www.contemporaneadigital.com"
  },
  "rg-k1gTOIPC": {
-  "checked": 1794415590,
-  "ok": false
+  "checked": 1795099815,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/cabina365"
+  },
+  "logo_url": "https://cabina365.com/wp-content/uploads/2026/09/cropped-Logo-Cabina-Redondeado-180x180.png",
+  "ok": true,
+  "website": "https://cabina365.com/"
  },
  "rg-kK_RMFBs": {
   "checked": 1794415609,
@@ -1291,8 +1319,14 @@
   "website": "https://grupocentro.com.bo"
  },
  "rg-lJTZeyiD": {
-  "checked": 1794415589,
-  "ok": false
+  "checked": 1795099815,
+  "color": "",
+  "cover_url": "https://codigowm.com/wp-content/uploads/2025/08/slide1-1068x601-1.png",
+  "description": "Explora la mejor selección de Radio en linea y disfruta de tus programas favoritos en cualquier momento.",
+  "links": {},
+  "logo_url": "https://codigowm.com/wp-content/uploads/2025/08/cropped-w-150x150-1-180x180.png",
+  "ok": true,
+  "website": "https://codigowm.com"
  },
  "rg-mNsHi7dI": {
   "checked": 1794415600,
@@ -1322,7 +1356,7 @@
   "website": "https://www.wkmradio.com/"
  },
  "rg-p2OIroTw": {
-  "checked": 1794415602,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-pk29fLnA": {
@@ -1354,6 +1388,22 @@
   "logo_url": "",
   "ok": true,
   "website": "https://radiocamargo.com.bo"
+ },
+ "rg-rM06pIMf": {
+  "checked": 1795099815,
+  "color": "",
+  "cover_url": "",
+  "description": "Noticias de Bolivia y el mundo, análisis y transmisión en vivo de Radio Fides. Información confiable las 24 horas.",
+  "links": {
+   "facebook": "https://www.facebook.com/RadioFidesBolivia",
+   "instagram": "https://www.instagram.com/radiofidesbolivia",
+   "tiktok": "https://www.tiktok.com/@radiofidesboliviaoficial",
+   "twitter": "https://twitter.com/GrupoFides",
+   "youtube": "https://www.youtube.com/@RadioFidesdeBolivia"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://radiofides.com/"
  },
  "rg-tRiEnCzO": {
   "checked": 1794415589,
@@ -1404,7 +1454,7 @@
   "website": "https://www.radioshowbolivia.com"
  },
  "rg-x3ffCyI2": {
-  "checked": 1794415609,
+  "checked": 1795099815,
   "ok": false
  },
  "rg-yKNCVhBN": {
@@ -1431,11 +1481,19 @@
   "website": "https://deltaboliviainstitucion.org"
  },
  "rg-zBGCTZb6": {
-  "checked": 1794415587,
-  "ok": false
+  "checked": 1795099815,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/asociaciondeperiodistas.aplp"
+  },
+  "logo_url": "https://aplp.org.bo/wp-content/uploads/2022/12/cropped-ico-180x180.jpg",
+  "ok": true,
+  "website": "https://aplp.org.bo/"
  },
  "rg-zUVVsrF3": {
-  "checked": 1794415590,
+  "checked": 1795099815,
   "ok": false
  }
 }
