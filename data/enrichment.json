@@ -722,7 +722,7 @@
   "website": "https://www.radioritmo98.com"
  },
  "rg-0bX-gJ61": {
-  "checked": 1794576762,
+  "checked": 1795185049,
   "ok": false
  },
  "rg-2TggHcdB": {
@@ -1146,8 +1146,14 @@
   "website": "https://radioatipiri.com"
  },
  "rg-YfFcwOfd": {
-  "checked": 1794576762,
-  "ok": false
+  "checked": 1795185049,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {},
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.radioarce.com/web2023/"
  },
  "rg-buCRjEcK": {
   "checked": 1794415601,
@@ -1266,6 +1272,16 @@
   "logo_url": "https://www.radiocalienteoruro.com/assets/img/apple-touch-icon.png",
   "ok": true,
   "website": "https://www.radiocalienteoruro.com"
+ },
+ "rg-gpj57rZK": {
+  "checked": 1795185049,
+  "color": "",
+  "cover_url": "",
+  "description": "app indoamerica",
+  "links": {},
+  "logo_url": "https://www.indoamericalaradio.com/icon-192x192.png",
+  "ok": true,
+  "website": "https://www.indoamericalaradio.com"
  },
  "rg-hqmodV7S": {
   "checked": 1794415605,
