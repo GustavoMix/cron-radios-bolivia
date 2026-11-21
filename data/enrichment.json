@@ -725,6 +725,20 @@
   "checked": 1795185049,
   "ok": false
  },
+ "rg-19j7szQa": {
+  "checked": 1795268951,
+  "color": "",
+  "cover_url": "",
+  "description": "",
+  "links": {
+   "facebook": "https://www.facebook.com/Radio-Integraci%C3%B3n-640-AM-524275041268579",
+   "twitter": "https://twitter.com/integracion640",
+   "youtube": "https://www.youtube.com/channel/UCTFFjnbcYyU0trRtDB7KBag"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://www.radiointegracion.com"
+ },
  "rg-2TggHcdB": {
   "checked": 1795099816,
   "ok": false
@@ -909,10 +923,6 @@
   "ok": true,
   "website": "https://7voces.wixsite.com/radio-7-voces-plus"
  },
- "rg-JjdWc77c": {
-  "checked": 1795099815,
-  "ok": false
- },
  "rg-JvwmsjsC": {
   "checked": 1794415606,
   "color": "",
@@ -1074,6 +1084,21 @@
  "rg-SJIkIepd": {
   "checked": 1795099815,
   "ok": false
+ },
+ "rg-SW-CmQnN": {
+  "checked": 1795268951,
+  "color": "",
+  "cover_url": "",
+  "description": "Conéctate a nuestra señal y escucha la voz de nuestras comunidades.",
+  "links": {
+   "facebook": "https://www.facebook.com/RadioCepra/",
+   "tiktok": "https://www.tiktok.com/@cepra_bolivia",
+   "whatsapp": "https://wa.me/59172241321",
+   "youtube": "https://www.youtube.com/@cepra6714"
+  },
+  "logo_url": "",
+  "ok": true,
+  "website": "https://ceprabolivia.org/radio"
  },
  "rg-T5ZYOo18": {
   "checked": 1794747842,

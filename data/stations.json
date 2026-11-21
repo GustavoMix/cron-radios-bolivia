@@ -45,7 +45,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 7453,
+  "votes": 7459,
   "rank": 2
  },
  {
@@ -68,7 +68,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 4933,
+  "votes": 4940,
   "rank": 3
  },
  {
@@ -91,7 +91,7 @@
   "language": "spanish",
   "codec": "AAC+",
   "bitrate": 128,
-  "votes": 4624,
+  "votes": 4625,
   "rank": 4
  },
  {
@@ -117,7 +117,7 @@
   "language": "",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 2756,
+  "votes": 2762,
   "rank": 5
  },
  {
@@ -140,7 +140,7 @@
   "language": "spanish",
   "codec": "AAC+",
   "bitrate": 36,
-  "votes": 2489,
+  "votes": 2490,
   "rank": 6
  },
  {
@@ -209,7 +209,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 64,
-  "votes": 1730,
+  "votes": 1733,
   "rank": 9
  },
  {
@@ -281,7 +281,7 @@
   "language": "",
   "codec": "AAC+",
   "bitrate": 64,
-  "votes": 1232,
+  "votes": 1233,
   "rank": 12
  },
  {
@@ -337,7 +337,7 @@
   "language": "aymara,spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 1012,
+  "votes": 1013,
   "rank": 14
  },
  {
@@ -363,7 +363,7 @@
   "language": "",
   "codec": "AAC",
   "bitrate": 96,
-  "votes": 952,
+  "votes": 953,
   "rank": 15
  },
  {
@@ -386,7 +386,7 @@
   "language": "quechua,spanish",
   "codec": "AAC",
   "bitrate": 64,
-  "votes": 775,
+  "votes": 776,
   "rank": 16
  },
  {
@@ -416,7 +416,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 128,
-  "votes": 524,
+  "votes": 527,
   "rank": 17
  },
  {
@@ -441,7 +441,7 @@
   "language": "quechua,spanish",
   "codec": "AAC",
   "bitrate": 48,
-  "votes": 482,
+  "votes": 483,
   "rank": 18
  },
  {
@@ -955,7 +955,7 @@
   "language": "",
   "codec": "AAC",
   "bitrate": 64,
-  "votes": 65,
+  "votes": 66,
   "rank": 38
  },
  {
@@ -1214,7 +1214,7 @@
   "language": "spanish",
   "codec": "MP3",
   "bitrate": 96,
-  "votes": 14,
+  "votes": 15,
   "rank": 48
  },
  {
@@ -2179,29 +2179,6 @@
   "rank": 87
  },
  {
-  "id": "rg-JjdWc77c",
-  "name": "Radio Bethel FM 94.9",
-  "city": "Oruro",
-  "department": "Oruro",
-  "genre": "Variada",
-  "frequency": "94.9 FM",
-  "stream_url": "https://streamtotal.net:4079/stream",
-  "secure": true,
-  "logo_url": "",
-  "cover_url": "",
-  "color": "#fb5607",
-  "description": "",
-  "is_featured": false,
-  "website": "http://radio.mmmbolivia.org/",
-  "links": {},
-  "programs": [],
-  "language": "",
-  "codec": "",
-  "bitrate": 0,
-  "votes": 0,
-  "rank": 88
- },
- {
   "id": "rg-k1gTOIPC",
   "name": "Radio Cabina365",
   "city": "La Paz",
@@ -2224,7 +2201,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 89
+  "rank": 88
  },
  {
   "id": "rg-glXH1Kya",
@@ -2247,7 +2224,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 90
+  "rank": 89
  },
  {
   "id": "rg-FUK01Jer",
@@ -2270,7 +2247,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 91
+  "rank": 90
  },
  {
   "id": "rg-qkVOg76J",
@@ -2297,7 +2274,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 92
+  "rank": 91
  },
  {
   "id": "rg-5lrF1tlK",
@@ -2322,7 +2299,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 93
+  "rank": 92
  },
  {
   "id": "rg-91EvcAwS",
@@ -2351,7 +2328,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 94
+  "rank": 93
  },
  {
   "id": "rg-kK_RMFBs",
@@ -2369,6 +2346,34 @@
   "is_featured": false,
   "website": "https://grupocentro.com.bo",
   "links": {},
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 94
+ },
+ {
+  "id": "rg-SW-CmQnN",
+  "name": "Radio CEPRA 89.2 FM",
+  "city": "La Paz",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "89.2 FM",
+  "stream_url": "https://fm.awanahost.com/8058/lpz",
+  "secure": true,
+  "logo_url": "",
+  "cover_url": "",
+  "color": "#d63384",
+  "description": "Conéctate a nuestra señal y escucha la voz de nuestras comunidades.",
+  "is_featured": false,
+  "website": "https://ceprabolivia.org/radio",
+  "links": {
+   "whatsapp": "https://wa.me/59172241321",
+   "facebook": "https://www.facebook.com/RadioCepra/",
+   "youtube": "https://www.youtube.com/@cepra6714",
+   "tiktok": "https://www.tiktok.com/@cepra_bolivia"
+  },
   "programs": [],
   "language": "",
   "codec": "",
@@ -2704,6 +2709,33 @@
   "rank": 108
  },
  {
+  "id": "rg-19j7szQa",
+  "name": "Radio Integracion AM 640",
+  "city": "El Alto",
+  "department": "La Paz",
+  "genre": "Variada",
+  "frequency": "",
+  "stream_url": "http://stream.nepsum.com:9000/radiointegracion.mp3",
+  "secure": false,
+  "logo_url": "",
+  "cover_url": "",
+  "color": "#fb5607",
+  "description": "",
+  "is_featured": false,
+  "website": "https://www.radiointegracion.com",
+  "links": {
+   "facebook": "https://www.facebook.com/Radio-Integraci%C3%B3n-640-AM-524275041268579",
+   "twitter": "https://twitter.com/integracion640",
+   "youtube": "https://www.youtube.com/channel/UCTFFjnbcYyU0trRtDB7KBag"
+  },
+  "programs": [],
+  "language": "",
+  "codec": "",
+  "bitrate": 0,
+  "votes": 0,
+  "rank": 109
+ },
+ {
   "id": "rg-zUVVsrF3",
   "name": "Radio Interactiva Bolivia FM",
   "city": "La Paz",
@@ -2724,7 +2756,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 109
+  "rank": 110
  },
  {
   "id": "rg-2TggHcdB",
@@ -2747,7 +2779,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 110
+  "rank": 111
  },
  {
   "id": "rg-ENSKmxJr",
@@ -2772,7 +2804,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 111
+  "rank": 112
  },
  {
   "id": "rg-T5ZYOo18",
@@ -2795,7 +2827,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 112
+  "rank": 113
  },
  {
   "id": "rg-f-ZFTFhW",
@@ -2822,7 +2854,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 113
+  "rank": 114
  },
  {
   "id": "rg-UPDcqbfN",
@@ -2848,7 +2880,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 114
+  "rank": 115
  },
  {
   "id": "rg-UvMr63ab",
@@ -2875,7 +2907,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 115
+  "rank": 116
  },
  {
   "id": "rg-4-iYUuET",
@@ -2902,7 +2934,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 116
+  "rank": 117
  },
  {
   "id": "rg-ew7wWBdd",
@@ -2929,7 +2961,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 117
+  "rank": 118
  },
  {
   "id": "rg-UjdPar2V",
@@ -2957,7 +2989,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 118
+  "rank": 119
  },
  {
   "id": "rg-NUFBKNx0",
@@ -2983,7 +3015,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 119
+  "rank": 120
  },
  {
   "id": "rg-SCJ631ll",
@@ -3006,7 +3038,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 120
+  "rank": 121
  },
  {
   "id": "rg-0aEyUiKp",
@@ -3032,7 +3064,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 121
+  "rank": 122
  },
  {
   "id": "rg-Mjcxav5K",
@@ -3061,7 +3093,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 122
+  "rank": 123
  },
  {
   "id": "rg-M10tiQe3",
@@ -3084,7 +3116,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 123
+  "rank": 124
  },
  {
   "id": "rg-wumDfw2p",
@@ -3107,7 +3139,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 124
+  "rank": 125
  },
  {
   "id": "rg-I89GGWEX",
@@ -3130,7 +3162,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 125
+  "rank": 126
  },
  {
   "id": "rg-0bX-gJ61",
@@ -3153,7 +3185,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 126
+  "rank": 127
  },
  {
   "id": "rg-UWTtw0W5",
@@ -3180,7 +3212,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 127
+  "rank": 128
  },
  {
   "id": "rg-dDedyPE0",
@@ -3209,7 +3241,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 128
+  "rank": 129
  },
  {
   "id": "rg-buCRjEcK",
@@ -3236,7 +3268,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 129
+  "rank": 130
  },
  {
   "id": "rg-gKOm0BRp",
@@ -3261,7 +3293,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 130
+  "rank": 131
  },
  {
   "id": "rg-JvwmsjsC",
@@ -3284,7 +3316,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 131
+  "rank": 132
  },
  {
   "id": "rg-mNsHi7dI",
@@ -3307,7 +3339,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 132
+  "rank": 133
  },
  {
   "id": "rg-pk29fLnA",
@@ -3336,7 +3368,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 133
+  "rank": 134
  },
  {
   "id": "rg-tpsaiXUv",
@@ -3363,7 +3395,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 134
+  "rank": 135
  },
  {
   "id": "rg-NKH5TRjS",
@@ -3388,7 +3420,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 135
+  "rank": 136
  },
  {
   "id": "rg-p2OIroTw",
@@ -3411,7 +3443,7 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 136
+  "rank": 137
  },
  {
   "id": "rg-mTvfeeYk",
@@ -3441,6 +3473,6 @@
   "codec": "",
   "bitrate": 0,
   "votes": 0,
-  "rank": 137
+  "rank": 138
  }
 ]
